@@ -1,0 +1,151 @@
+domain,active,notes
+google.com,1,Search & multi-service
+facebook.com,1,Social network
+youtube.com,1,Video platform
+twitter.com,1,Social network
+instagram.com,1,Social network
+linkedin.com,1,Professional network
+reddit.com,1,Community forum
+pinterest.com,1,Visual discovery
+tiktok.com,1,Short video
+snapchat.com,1,Messaging app
+wikipedia.org,1,Online encyclopedia
+apple.com,1,Tech company
+microsoft.com,1,Tech company
+amazon.com,1,E-commerce
+netflix.com,1,Streaming
+spotify.com,1,Music streaming
+adobe.com,1,Software
+github.com,1,Dev platform
+stackoverflow.com,1,Developer Q&A
+stackexchange.com,1,Q&A network
+quora.com,1,Knowledge sharing
+medium.com,1,Blogging
+tumblr.com,1,Microblogging
+wordpress.com,1,CMS
+wix.com,1,Website builder
+shopify.com,1,E-commerce platform
+walmart.com,1,Big retailer
+target.com,1,Retailer
+bestbuy.com,1,Tech retailer
+ebay.com,1,Marketplaces
+etsy.com,1,Marketplaces
+alibaba.com,1,Wholesale
+aliexpress.com,1,Global retail
+yahoo.com,1,Portal
+cnn.com,1,News
+bbc.com,1,News
+nytimes.com,1,News
+washingtonpost.com,1,News
+theguardian.com,1,News
+forbes.com,1,Business news
+bloomberg.com,1,Business news
+reuters.com,1,News agency
+espn.com,1,Sports news
+foxnews.com,1,News
+npr.org,1,News
+huffpost.com,1,News
+harvard.edu,1,Education
+stanford.edu,1,Education
+mit.edu,1,Education
+princeton.edu,1,Education
+ox.ac.uk,1,Education
+cam.ac.uk,1,Education
+nih.gov,1,Government
+usa.gov,1,Government
+irs.gov,1,Government
+cia.gov,1,Government
+nasa.gov,1,Government
+europarl.europa.eu,1,Government
+cisco.com,1,Networking
+oracle.com,1,Software
+ibm.com,1,Tech
+salesforce.com,1,SaaS CRM
+slack.com,1,Team comms
+zoom.us,1,Video conferencing
+dropbox.com,1,Cloud storage
+jira.com,1,Project tracking
+trello.com,1,Project tracking
+asana.com,1,Project tracking
+notion.so,1,Workspace
+airbnb.com,1,Travel
+booking.com,1,Travel
+uber.com,1,Transport
+lyft.com,1,Transport
+expedia.com,1,Travel
+tripadvisor.com,1,Travel
+skyscanner.net,1,Travel
+trivago.com,1,Travel
+yelp.com,1,Business reviews
+foursquare.com,1,Local info
+craigslist.org,1,Classifieds
+indeed.com,1,Jobs
+monster.com,1,Jobs
+glassdoor.com,1,Jobs
+careerbuilder.com,1,Jobs
+ziprecruiter.com,1,Jobs
+paypal.com,1,Payments
+stripe.com,1,Payments
+venmo.com,1,Payments
+squareup.com,1,Payments
+robinhood.com,1,Finance
+coinbase.com,1,Crypto
+binance.com,1,Crypto
+kraken.com,1,Crypto
+imdb.com,1,Entertainment
+rotten-tomatoes.com,1,Entertainment
+metacritic.com,1,Entertainment
+soundcloud.com,1,Music
+bandcamp.com,1,Music
+vimeo.com,1,Video
+dailymotion.com,1,Video
+twitch.tv,1,Video streaming
+discord.com,1,Chat
+telegram.org,1,Chat
+signal.org,1,Chat
+whatsapp.com,1,Chat
+wechat.com,1,Chat
+qq.com,1,Platform
+sina.com.cn,1,Portal
+taobao.com,1,E-commerce
+jd.com,1,E-commerce
+yandex.ru,1,Search
+mail.ru,1,Portal
+alipay.com,1,Payments
+baidu.com,1,Search
+zillow.com,1,Real estate
+trulia.com,1,Real estate
+realtor.com,1,Real estate
+redfin.com,1,Real estate
+carfax.com,1,Auto data
+cars.com,1,Auto marketplace
+autotrader.com,1,Auto marketplace
+edx.org,1,Online learning
+coursera.org,1,Online learning
+khanacademy.org,1,Online learning
+udemy.com,1,Online courses
+skillshare.com,1,Online courses
+codecademy.com,1,Coding education
+udacity.com,1,Online tech courses
+lynda.com,1,Online courses
+msn.com,1,Portal
+aol.com,1,Portal
+hulu.com,1,Streaming
+disneyplus.com,1,Streaming
+hbo.com,1,Streaming
+bbc.co.uk,1,News
+aljazeera.com,1,News
+sakura.ne.jp,1,Unique/International
+cloudflare.com,1,CDN and DDoS protection provider
+verisign.com,1,Domain registry and DNS authority
+huggingface.co,1,AI/ML model sharing platform
+kaggle.com,1,Data science competition platform
+openai.com,1,AI research and API provider
+anthropic.com,1,AI research company
+stability.ai,1,Open diffusion model company
+mozilla.org,1,Open-source foundation
+apache.org,1,Open-source software foundation
+openweather.co,1,Weather API provider
+unsplash.com,1,Free image API and content site
+mastodon.social,1,Decentralized social network
+substack.com,1,Publishing and newsletter platform
