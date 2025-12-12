@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /reply
+Disallow: /fb/
+Disallow: /suggest
+Disallow: /flag
+Disallow: /mf
+Disallow: /mailflag
+Disallow: /eaf
+
+User-agent: Diffbot
+User-agent: FacebookBot
+User-agent: FriendlyCrawler
+User-agent: Google-Extended
+User-agent: ImagesiftBot
+User-agent: img2dataset
+User-agent: Meta-ExternalAgent
+User-agent: omgili
+User-agent: omgilibot
+User-agent: PerplexityBot
+User-agent: Timpibot
+User-agent: VelenPublicWebCrawler
+User-agent: YouBot
+Disallow: /
+

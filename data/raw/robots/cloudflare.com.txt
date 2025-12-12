@@ -1,0 +1,214 @@
+#    .__________________________.
+#    | .___________________. |==|
+#    | | ................. | |  |
+#    | | ::[ Dear robot ]: | |  |
+#    | | ::::[ be nice ]:: | |  |
+#    | | ::::::::::::::::: | |  |
+#    | | ::::::::::::::::: | |  |
+#    | | ::::::::::::::::: | |  |
+#    | | ::::::::::::::::: | | ,|
+#    | !___________________! |(c|
+#    !_______________________!__!
+#   /                            \
+#  /  [][][][][][][][][][][][][]  \
+# /  [][][][][][][][][][][][][][]  \
+#(  [][][][][____________][][][][]  )
+# \ ------------------------------ /
+#  \______________________________/
+
+
+#       _-_
+#    /~~   ~~\
+# /~~         ~~\
+#{               }
+# \  _-     -_  /
+#   ~  \\ //  ~
+#_- -   | | _- _
+#  _ -  | |   -_
+#      // \\
+# OUR TREE IS A REDWOOD
+
+
+User-agent: Twitterbot 
+
+Allow: /lp
+Allow: /de-de/lp
+Allow: /en-gb/lp
+Allow: /ja-jp/lp
+Allow: /fr-fr/lp
+Allow: /en-gb/lp
+Allow: /en-ca/lp
+Allow: /en-au/lp
+Allow: /en-in/lp
+Allow: /es-es/lp
+Allow: /es-la/lp
+Allow: /it-it/lp
+Allow: /ko-kr/lp
+Allow: /pt-br/lp
+Allow: /zh-cn/lp
+Allow: /zh-tw/lp
+Allow: /ru-ru/lp
+Allow: /pl-pl/lp
+
+User-Agent: DemandbaseWebsitePreview/0.1 
+
+Allow: /lp
+Allow: /de-de/lp
+Allow: /en-gb/lp
+Allow: /ja-jp/lp
+Allow: /fr-fr/lp
+Allow: /en-gb/lp
+Allow: /en-ca/lp
+Allow: /en-au/lp
+Allow: /en-in/lp
+Allow: /es-es/lp
+Allow: /es-la/lp
+Allow: /it-it/lp
+Allow: /ko-kr/lp
+Allow: /pt-br/lp
+Allow: /zh-cn/lp
+Allow: /zh-tw/lp
+Allow: /ru-ru/lp
+Allow: /pl-pl/lp
+
+User-agent: * 
+
+Disallow: pages.www.cloudflare.com/
+Disallow: en-us.www.cloudflare.com/
+Disallow: de-de.www.cloudflare.com/
+Disallow: en-gb.www.cloudflare.com/
+Disallow: ja-jp.www.cloudflare.com/
+Disallow: fr-fr.www.cloudflare.com/
+Disallow: en-gb.www.cloudflare.com/
+Disallow: en-ca.www.cloudflare.com/
+Disallow: en-au.www.cloudflare.com/
+Disallow: en-in.www.cloudflare.com/
+Disallow: es-es.www.cloudflare.com/
+Disallow: es-la.www.cloudflare.com/
+Disallow: it-it.www.cloudflare.com/
+Disallow: ko-kr.www.cloudflare.com/
+Disallow: pt-br.www.cloudflare.com/
+Disallow: zh-cn.www.cloudflare.com/
+Disallow: zh-tw.www.cloudflare.com/
+Disallow: nl-nl.www.cloudflare.com/
+Disallow: id-id.www.cloudflare.com/
+Disallow: th-th.www.cloudflare.com/
+Disallow: ru-ru.www.cloudflare.com/
+Disallow: sv-se.www.cloudflare.com/
+Disallow: vi-vn.www.cloudflare.com/
+Disallow: tr-tr.www.cloudflare.com/
+Disallow: zh-hans-cn.www.cloudflare.com/
+Disallow: pl-pl.www.cloudflare.com/
+
+Disallow: /cdn-cgi/ 
+
+Disallow: /lp
+Disallow: /de-de/lp
+Disallow: /en-gb/lp
+Disallow: /ja-jp/lp
+Disallow: /fr-fr/lp
+Disallow: /en-gb/lp
+Disallow: /en-ca/lp
+Disallow: /en-au/lp
+Disallow: /en-in/lp
+Disallow: /es-es/lp
+Disallow: /es-la/lp
+Disallow: /it-it/lp
+Disallow: /ko-kr/lp
+Disallow: /pt-br/lp
+Disallow: /zh-cn/lp
+Disallow: /zh-tw/lp
+Disallow: /nl-nl/lp
+Disallow: /id-id/lp
+Disallow: /th-th/lp
+Disallow: /ru-ru/lp
+Disallow: /sv-se/lp
+Disallow: /vi-vn/lp
+Disallow: /tr-tr/lp
+Disallow: /zh-hans-cn/lp
+Disallow: /pl-pl/lp
+
+Disallow: /searchresults
+Disallow: /de-de/searchresults
+Disallow: /en-gb/searchresults
+Disallow: /ja-jp/searchresults
+Disallow: /fr-fr/searchresults
+Disallow: /en-gb/searchresults
+Disallow: /en-ca/searchresults
+Disallow: /en-au/searchresults
+Disallow: /en-in/searchresults
+Disallow: /es-es/searchresults
+Disallow: /es-la/searchresults
+Disallow: /it-it/searchresults
+Disallow: /ko-kr/searchresults
+Disallow: /pt-br/searchresults
+Disallow: /zh-cn/searchresults
+Disallow: /zh-tw/searchresults
+Disallow: /nl-nl/searchresults
+Disallow: /id-id/searchresults
+Disallow: /th-th/searchresults
+Disallow: /ru-ru/searchresults
+Disallow: /sv-se/searchresults
+Disallow: /vi-vn/searchresults
+Disallow: /tr-tr/searchresults
+Disallow: /zh-hans-cn/searchresults
+Disallow: /pl-pl/searchresults
+
+Disallow: /feedback
+Disallow: /de-de/feedback
+Disallow: /en-gb/feedback
+Disallow: /ja-jp/feedback
+Disallow: /fr-fr/feedback
+Disallow: /en-gb/feedback
+Disallow: /en-ca/feedback
+Disallow: /en-au/feedback
+Disallow: /en-in/feedback
+Disallow: /es-es/feedback
+Disallow: /es-la/feedback
+Disallow: /it-it/feedback
+Disallow: /ko-kr/feedback
+Disallow: /pt-br/feedback
+Disallow: /zh-cn/feedback
+Disallow: /zh-tw/feedback
+Disallow: /nl-nl/feedback
+Disallow: /id-id/feedback
+Disallow: /th-th/feedback
+Disallow: /ru-ru/feedback
+Disallow: /sv-se/feedback
+Disallow: /vi-vn/feedback
+Disallow: /tr-tr/feedback
+Disallow: /zh-hans-cn/feedback
+Disallow: /pl-pl/feedback
+
+Sitemap: https://www.cloudflare.com/sitemap.xml
+Sitemap: https://www.cloudflare.com/de-de/sitemap.xml
+Sitemap: https://www.cloudflare.com/en-gb/sitemap.xml
+Sitemap: https://www.cloudflare.com/ja-jp/sitemap.xml
+Sitemap: https://www.cloudflare.com/fr-fr/sitemap.xml
+Sitemap: https://www.cloudflare.com/en-gb/sitemap.xml
+Sitemap: https://www.cloudflare.com/en-ca/sitemap.xml
+Sitemap: https://www.cloudflare.com/en-au/sitemap.xml
+Sitemap: https://www.cloudflare.com/en-in/sitemap.xml
+Sitemap: https://www.cloudflare.com/es-es/sitemap.xml
+Sitemap: https://www.cloudflare.com/es-la/sitemap.xml
+Sitemap: https://www.cloudflare.com/it-it/sitemap.xml
+Sitemap: https://www.cloudflare.com/ko-kr/sitemap.xml
+Sitemap: https://www.cloudflare.com/pt-br/sitemap.xml
+Sitemap: https://www.cloudflare.com/zh-cn/sitemap.xml
+Sitemap: https://www.cloudflare.com/zh-tw/sitemap.xml
+Sitemap: https://www.cloudflare.com/ru-ru/sitemap.xml
+Sitemap: https://www.cloudflare.com/pl-pl/sitemap.xml
+
+#              ________
+#   __,_,     |        |
+#  [_|_/      |   OK   |
+#   //        |________|
+# _//    __  /
+#(_|)   |@@|
+# \ \__ \--/ __
+#  \o__|----|  |   __
+#      \ }{ /\ )_ / _\
+#      /\__/\ \__O (__
+#     (--/\--)    \__/
+#     _)(  )(_
+#    `---''---`

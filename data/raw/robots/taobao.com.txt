@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /list/*
+Allow: /list/*?*
+Disallow: /*?*

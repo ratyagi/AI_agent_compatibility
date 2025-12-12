@@ -1,0 +1,1240 @@
+<!DOCTYPE html>
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    <html lang="en">
+      <head>
+        <meta name="pageKey" content="d_learning_page_not_found_guest">
+<!----><!----><!---->        <meta name="locale" content="en_US">
+<!---->        <meta id="config" data-app-version="2.0.3074" data-call-tree-id="AAZFyLEUZ6lxb37gCcMZyQ==" data-multiproduct-name="learning-guest-frontend" data-service-name="learning-guest-frontend" data-browser-id="0b679a3a-f1aa-48d1-8496-aad3a80bc2ed" data-enable-page-view-heartbeat-tracking data-page-instance="urn:li:page:learning_course_guest;6jwXzxDfRZqtXYQIKiUKhA==" data-disable-jsbeacon-pagekey-suffix="false" data-member-id="0" data-dna-member-lix-treatment="control" data-human-member-lix-treatment="control" data-dfp-member-lix-treatment="control" data-sync-apfc-headers-lix-treatment="control" data-sync-apfc-cb-lix-treatment="control" data-recaptcha-v3-integration-lix-value="control" data-network-interceptor-lix-value="control" data-is-epd-audit-event-enabled="false" data-is-feed-sponsored-tracking-kill-switch-enabled="false">
+
+        <link rel="canonical" href="https://www.linkedin.com/learning/page-not-found">
+<!----><!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+        <script>
+          function getDfd() {let yFn,nFn;const p=new Promise(function(y, n){yFn=y;nFn=n;});p.resolve=yFn;p.reject=nFn;return p;}
+          window.lazyloader = getDfd();
+          window.tracking = getDfd();
+          window.impressionTracking = getDfd();
+          window.ingraphTracking = getDfd();
+          window.appDetection = getDfd();
+          window.pemTracking = getDfd();
+        </script>
+
+<!---->
+        
+        
+    
+
+    <link rel="icon" href="https://static.licdn.com/aero-v1/sc/h/444zstxv7s91nepfm5et6ofge">
+    <title>Page Not Found | LinkedIn Learning, formerly Lynda.com</title>
+    <meta name="robots" content="noarchive, noindex, max-image-preview:large">
+    <meta name="description" content="Page Not Found">
+    <meta property="og:site_name" content="LinkedIn">
+    <meta name="twitter:site" content="@LI_Learning">
+    <meta name="twitter:card" content="summary">
+    <meta name="litmsProfileName" content="learning-guest-frontend">
+    <meta property="og:title" content="Page Not Found | LinkedIn Learning, formerly Lynda.com">
+    <meta name="twitter:title" content="Page Not Found | LinkedIn Learning, formerly Lynda.com">
+    <meta property="og:description" content="Page Not Found">
+    <meta name="twitter:description" content="Page Not Found">
+      <meta property="og:image" content="https://static.licdn.com/aero-v1/sc/h/50i85klb0hydcf45ieglfsw4w">
+      <meta property="og:image:alt" content="Woman looking through LinkedIn Learning course icons">
+      <meta name="twitter:image" content="https://static.licdn.com/aero-v1/sc/h/50i85klb0hydcf45ieglfsw4w">
+      <meta name="twitter:image:alt" content="Woman looking through LinkedIn Learning course icons">
+    <meta property="og:url" content="https://www.linkedin.com/learning/page-not-found">
+    <meta property="og:type" content="website">
+    <meta name="clientSideIngraphs" content="1" data-gauge-metric-endpoint="/learning-guest/api/ingraphs/gauge" data-counter-metric-endpoint="/learning-guest/api/ingraphs/counter">
+  
+        <link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/430shu9oaqe2wdiwqn01g1pc1">
+
+      
+<!---->      </head>
+      <body dir="ltr">
+<!----><!----><!---->
+        
+        
+<!---->
+    <div class="focus-page">
+        
+    
+
+    <a href="#main-content" class="skip-link btn-md btn-primary absolute z-11 -top-[100vh] focus:top-0">
+      Skip to main content
+    </a>
+  
+      <header class="focus-page__header global-alert-offset sticky-header">
+          
+
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+    <nav class="nav pt-1.5 pb-2 flex items-center justify-between relative flex-nowrap babymamabear:py-1.5
+         nav--minified-mobile 
+        
+         focus-page__nav" aria-label="Primary">
+
+      <a href="https://www.linkedin.com/learning/?trk=learning-page-not-found_nav-header-logo" class="nav__logo-link link-no-visited-state z-1 mr-auto min-h-[52px] flex items-center babybear:z-0 hover:no-underline focus:no-underline active:no-underline
+           babymamabear:mr-3" data-tracking-control-name="learning-page-not-found_nav-header-logo" data-tracking-will-navigate>
+          
+                
+            
+
+    
+    
+
+    <div class="learning-logo">
+      <icon class="learning-logo__inbug onload" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4zqr0f9jf98vi2nkijyc3bex2"></icon>
+      <span class="learning-logo__text" aria-hidden="true">Learning</span>
+      <span class="sr-only">LinkedIn Learning</span>
+    </div>
+  
+          
+            
+      </a>
+
+        
+
+    
+    
+    
+    
+    
+
+    <section class="search-bar relative flex flex-grow h-[40px] bg-cool-gray-20 min-w-0 max-w-full mx-4 rounded-sm babymamabear:mx-0 babymamabear:mb-1.5 babymamabear:bg-color-transparent babymamabear:w-full babymamabear:flex babymamabear:flex-wrap
+         search-bar--minified-mobile" data-current-search-type="LEARNING">
+      <button class="search-bar__placeholder papabear:hidden text-input w-full mt-1.5 !pl-[14px] border-1 border-solid border-color-border-faint rounded-[2px] h-[40px] max-h-[40px] flex items-center overflow-hidden cursor-text" data-tracking-control-name="learning-page-not-found_search-switcher-opener">
+        <icon class="text-color-icon w-3 h-3 mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/397vrsk6op88l4981ji1xe1qt"></icon>
+        <div class="search-bar__full-placeholder font-sans text-md text-color-text max-w-[calc(100%-40px)] text-left whitespace-nowrap overflow-hidden text-ellipsis">
+<!----><!---->              Search skills, subjects, or software
+<!---->        </div>
+        <span class="sr-only">Expand search</span>
+      </button>
+      
+    
+
+      
+        
+
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="switcher-tabs__trigger-and-tabs babymamabear:flex">
+        <button aria-expanded="false" class="switcher-tabs__placeholder flex !h-full !py-0 !pl-2 !pr-1.5 border-r-1 border-solid border-r-color-border-faint babymamabear:hidden
+            tab-md papabear:tab-vertical papabear:justify-start cursor-pointer" data-tracking-control-name="learning-page-not-found_switcher-tabs-placeholder" aria-describedby="switcher-description">
+          <span class="switcher-tabs__placeholder-text m-auto"></span>
+          <icon class="switcher-tabs__caret-down-filled onload pointer-events-none block my-auto min-h-[24px] min-w-[24px] h-[24px] babymamabear:hidden" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1mbz49mpng9yvv8gqs11n7dkx"></icon>
+        </button>
+        <div id="switcher-description" class="hidden">This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection. </div>
+<!---->        <div class="switcher-tabs hidden z-[1] w-auto min-w-[160px] mb-1.5 py-1 absolute top-[48px] left-0 border-solid border-1 border-color-border-faint papabear:container-raised babymamabear:static babymamabear:w-[100vw] babymamabear:h-[48px] babymamabear:p-0 overflow-y-hidden overflow-x-auto md:overflow-x-hidden">
+          <ul class="switcher-tabs__list flex flex-1 items-stretch papabear:flex-col" role="tablist">
+                  <li class="switcher-tabs__tab h-[44px] babymamabear:basis-1/2" role="presentation">
+                    <button aria-controls="jobs-search-panel" aria-selected="false" class="switcher-tabs__button w-full h-full
+                        tab-md papabear:tab-vertical papabear:justify-start cursor-pointer
+                        " data-switcher-type="JOBS" data-tracking-control-name="learning-page-not-found_switcher-tabs-jobs-search-switcher" id="job-switcher-tab" role="tab">
+                        Jobs
+                    </button>
+                  </li>
+                  <li class="switcher-tabs__tab h-[44px] babymamabear:basis-1/2" role="presentation">
+                    <button aria-controls="people-search-panel" aria-selected="false" class="switcher-tabs__button w-full h-full
+                        tab-md papabear:tab-vertical papabear:justify-start cursor-pointer
+                        " data-switcher-type="PEOPLE" data-tracking-control-name="learning-page-not-found_switcher-tabs-people-search-switcher" id="people-switcher-tab" role="tab">
+                        People
+                    </button>
+                  </li>
+                  <li class="switcher-tabs__tab h-[44px] babymamabear:basis-1/2" role="presentation">
+                    <button aria-controls="learning-search-panel" aria-selected="true" class="switcher-tabs__button w-full h-full
+                        tab-md papabear:tab-vertical papabear:justify-start cursor-pointer
+                        tab-selected" data-switcher-type="LEARNING" data-tracking-control-name="learning-page-not-found_switcher-tabs-learning-search-switcher" id="learning-switcher-tab" role="tab">
+                        Learning
+                    </button>
+                  </li>
+          </ul>
+
+            <button aria-label="Close" class="switcher-tabs__cancel-btn papabear:hidden block w-6 h-6 m-auto text-color-text-low-emphasis" data-tracking-control-name="learning-page-not-found_switcher-tabs-cancel-search-switcher" type="button">
+              <icon class="switcher-tabs__cancel-icon block w-3 h-3 m-auto onload" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+            </button>
+        </div>
+    </div>
+  
+
+        
+
+    
+    
+    
+    
+
+    
+
+    
+
+    <section class="base-search-bar w-full h-full" data-searchbar-type="PEOPLE" aria-labelledby="people-switcher-tab" id="people-search-panel" role="tabpanel">
+      <form class="base-search-bar__form w-full flex babymamabear:mx-mobile-container-padding babymamabear:flex-col" role="search" action="/pub/dir" data-tracking-control-name="learning-page-not-found_people-search-bar_base-search-bar-form">
+        
+          
+      
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 search-input">
+      <input aria-label="First Name" autocomplete="on" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none placeholder:text-color-text-secondary" data-tracking-control-name="learning-page-not-found_people-search-bar_first-name_dismissable-input" maxlength="500" name="firstName" placeholder="First Name" type="search">
+      
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="learning-page-not-found_people-search-bar_first-name_dismissable-input-clear" type="button">
+          <label class="sr-only">Clear text</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+          
+      
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 search-input">
+      <input aria-label="Last Name" autocomplete="on" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none placeholder:text-color-text-secondary" data-tracking-control-name="learning-page-not-found_people-search-bar_last-name_dismissable-input" maxlength="500" name="lastName" placeholder="Last Name" type="search">
+      
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="learning-page-not-found_people-search-bar_last-name_dismissable-input-clear" type="button">
+          <label class="sr-only">Clear text</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+      
+        <input name="trk" value="learning-page-not-found_people-search-bar_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn block basis-[40px] flex-shrink-0 cursor-pointer babymamabear:invisible babymamabear:ml-[-9999px] babymamabear:w-[1px] babymamabear:h-[1px]" aria-label="Search" data-tracking-control-name="learning-page-not-found_people-search-bar_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload mx-auto" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cb5bsr4tsn2r4sjg9e3ls4tjl"></icon>
+        </button>
+      </form>
+    </section>
+  
+  
+
+        
+
+    
+    
+    
+    
+
+    
+
+    
+
+    <section class="base-search-bar w-full h-full" data-searchbar-type="JOBS" aria-labelledby="job-switcher-tab" id="jobs-search-panel" role="tabpanel">
+      <form class="base-search-bar__form w-full flex babymamabear:mx-mobile-container-padding babymamabear:flex-col" role="search" action="/jobs/search" data-tracking-control-name="learning-page-not-found_jobs-search-bar_base-search-bar-form">
+        
+        
+
+    
+    
+    
+
+    <code id="i18n_aria_live_text_no-suggestions" style="display: none"><!--"No suggestions found"--></code>
+    <code id="i18n_aria_live_text_one-suggestion" style="display: none"><!--"One Suggestion. Use up and down keys to navigate"--></code>
+    <code id="i18n_aria_live_text_multiple-suggestions" style="display: none"><!--"Multiple Suggestions. Use up and down keys to navigate"--></code>
+
+    
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 typeahead-input keywords-typeahead-input text-input">
+      <input aria-autocomplete="list" aria-controls="job-search-bar-keywords-typeahead-list" aria-haspopup="listbox" aria-label="Search job titles or companies" autocomplete="off" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none placeholder:text-color-text-secondary" data-tracking-control-name="learning-page-not-found_dismissable-input" id="job-search-bar-keywords" maxlength="500" name="keywords" placeholder="Search job titles or companies" role="combobox" type="search">
+      
+<!---->      <div class="typeahead-input__dropdown container-lined absolute top-[calc(100%+3px)] left-0 w-full rounded-b-md rounded-t-none z-[10] overflow-hidden max-w-none babybear:min-w-full babybear:bottom-0 babybear:overflow-y-auto">
+        <template class="typeahead-item-template">
+          <li class="typeahead-input__dropdown-item py-1.5 px-2 hover:cursor-pointer hover:bg-color-surface-new-hover hover:border-y-2 hover:border-solid hover:border-color-container-primary" role="option">
+            <span class="typeahead-input__dropdown-text font-sans text-sm font-bold text-color-text"></span>
+          </li>
+        </template>
+
+        <ul class="typeahead-input__dropdown-list w-full" id="job-search-bar-keywords-typeahead-list" role="listbox"></ul>
+      </div>
+<!---->    
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="learning-page-not-found_dismissable-input-clear" type="button">
+          <label class="sr-only">Clear text</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+<!---->        
+
+    
+    
+    
+
+    <code id="i18n_aria_live_text_no-suggestions" style="display: none"><!--"No suggestions found"--></code>
+    <code id="i18n_aria_live_text_one-suggestion" style="display: none"><!--"One Suggestion. Use up and down keys to navigate"--></code>
+    <code id="i18n_aria_live_text_multiple-suggestions" style="display: none"><!--"Multiple Suggestions. Use up and down keys to navigate"--></code>
+
+    
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 typeahead-input location-typeahead-input">
+      <input aria-autocomplete="list" aria-controls="job-search-bar-location-typeahead-list" aria-haspopup="listbox" aria-label="Location" autocomplete="off" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none placeholder:text-color-text-secondary" data-tracking-control-name="learning-page-not-found_dismissable-input" id="job-search-bar-location" maxlength="500" name="location" placeholder="Location" role="combobox" value="Las Vegas, NV" type="search">
+      
+<!---->      <div class="typeahead-input__dropdown container-lined absolute top-[calc(100%+3px)] left-0 w-full rounded-b-md rounded-t-none z-[10] overflow-hidden max-w-none babybear:min-w-full babybear:bottom-0 babybear:overflow-y-auto">
+        <template class="typeahead-item-template">
+          <li class="typeahead-input__dropdown-item py-1.5 px-2 hover:cursor-pointer hover:bg-color-surface-new-hover hover:border-y-2 hover:border-solid hover:border-color-container-primary" role="option">
+            <span class="typeahead-input__dropdown-text font-sans text-sm font-bold text-color-text"></span>
+          </li>
+        </template>
+
+        <ul class="typeahead-input__dropdown-list w-full" id="job-search-bar-location-typeahead-list" role="listbox"></ul>
+      </div>
+<!---->    
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="learning-page-not-found_dismissable-input-clear" type="button">
+          <label class="sr-only">Clear text</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+        <input name="geoId" value="106295153" type="hidden">
+      
+        <input name="trk" value="learning-page-not-found_jobs-search-bar_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn block basis-[40px] flex-shrink-0 cursor-pointer babymamabear:invisible babymamabear:ml-[-9999px] babymamabear:w-[1px] babymamabear:h-[1px]" aria-label="Search" data-tracking-control-name="learning-page-not-found_jobs-search-bar_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload mx-auto" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cb5bsr4tsn2r4sjg9e3ls4tjl"></icon>
+        </button>
+      </form>
+    </section>
+  
+  
+
+        
+    
+    
+
+    
+
+    
+
+    <section class="base-search-bar w-full h-full" data-searchbar-type="LEARNING" aria-labelledby="learning-switcher-tab" id="learning-search-panel" role="tabpanel">
+      <form class="base-search-bar__form w-full flex babymamabear:mx-mobile-container-padding babymamabear:flex-col" role="search" action="/learning/search" data-tracking-control-name="learning-page-not-found_learning-search-bar_base-search-bar-form">
+        
+        
+      
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 search-input">
+      <input aria-label="Search skills, subjects, or software" autocomplete="on" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none placeholder:text-color-text-secondary" data-tracking-control-name="learning-page-not-found_learning-search-bar_keywords_dismissable-input" maxlength="500" name="keywords" placeholder="Search skills, subjects, or software" type="search">
+      
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="learning-page-not-found_learning-search-bar_keywords_dismissable-input-clear" type="button">
+          <label class="sr-only">Clear text</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+        <input class="nav__search-uoo" name="upsellOrderOrigin" type="hidden">
+        
+      
+        <input name="trk" value="learning-page-not-found_learning-search-bar_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn block basis-[40px] flex-shrink-0 cursor-pointer babymamabear:invisible babymamabear:ml-[-9999px] babymamabear:w-[1px] babymamabear:h-[1px]" aria-label="Search" data-tracking-control-name="learning-page-not-found_learning-search-bar_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload mx-auto" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cb5bsr4tsn2r4sjg9e3ls4tjl"></icon>
+        </button>
+      </form>
+    </section>
+  
+  
+
+        <div aria-live="polite" class="search-bar__live-text sr-only" role="status"></div>
+      
+  
+    </section>
+  
+
+<!---->
+      <div class="nav__cta-container order-3 flex gap-x-1 justify-end min-w-[100px] flex-nowrap flex-shrink-0 babybear:flex-wrap flex-2
+           babymamabear:min-w-[50px] ">
+<!---->
+        
+    
+    <a class="nav__button-tertiary btn-tertiary ml-1 btn-md" href="https://www.linkedin.com/learning-login/?redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Flearning%2F%3Ftrk%3Dlynda_redirect_learning&amp;trk=learning-page-not-found_nav-header-join" data-tracking-control-name="learning-page-not-found_nav-header-join" data-test-live-nav-primary-cta data-tracking-will-navigate data-tracking-client-ingraph>
+      Join now
+<!---->    </a>
+
+
+          
+  
+  
+
+      
+      <a class="nav__button-secondary btn-secondary-emphasis btn-md" href="https://www.linkedin.com/learning-login/?redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Flearning%2F%3Ftrk%3Dlynda_redirect_learning&amp;fromSignIn=true&amp;trk=learning-page-not-found_nav-header-signin" data-tracking-control-name="learning-page-not-found_nav-header-signin" data-tracking-will-navigate data-tracking-client-ingraph>
+          Sign in
+      </a>
+
+
+          <a aria-label="Sign in" class="nav__link-person papabear:hidden mamabear:hidden" data-tracking-control-name="learning-page-not-found_nav-header-signin" data-tracking-will-navigate href="https://www.linkedin.com/learning-login/?redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Flearning%2F%3Ftrk%3Dlynda_redirect_learning&amp;fromSignIn=true&amp;trk=learning-page-not-found_nav-header-signin">
+            
+      <img class="inline-block relative
+          rounded-[50%]
+          w-4 h-4
+          bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt>
+      
+          </a>
+      </div>
+
+<!---->
+<!---->    </nav>
+  
+
+        
+      </header>
+
+        <div class="focus-page__banner">
+          
+            
+
+    
+    
+    
+    
+    
+      <div class="enterprise-nav">
+        <div class="enterprise-nav__content-wrapper">
+          <p id="enterprise-nav-solutions" class="enterprise-nav__content" tabindex="-1">
+            Solutions for:
+          </p>
+            <a href="https://learning.linkedin.com/for-entire-companies?src=li-learning-nav&trk=learning-page-not-found_enterprise-nav" aria-labelledby="enterprise-nav-solutions business-nav-business" class="enterprise-nav__content" data-tracking-control-name="learning-page-not-found_enterprise-nav" data-tracking-will-navigate="true" id="business-nav-business">Business</a>
+            <a href="https://learning.linkedin.com/for-higher-education?src=li-learning-nav&trk=learning-page-not-found_enterprise-nav" aria-labelledby="enterprise-nav-solutions business-nav-education" class="enterprise-nav__content" data-tracking-control-name="learning-page-not-found_enterprise-nav" data-tracking-will-navigate="true" id="business-nav-education">Higher Education</a>
+            <a href="https://learning.linkedin.com/for-governments?src=li-learning-nav&trk=learning-page-not-found_enterprise-nav" aria-labelledby="enterprise-nav-solutions business-nav-government" class="enterprise-nav__content" data-tracking-control-name="learning-page-not-found_enterprise-nav" data-tracking-will-navigate="true" id="business-nav-government">Government</a>
+            <a href="/learning/subscription/teams?veh=lil_upx&src=li-learning-nav&trk=learning-page-not-found_enterprise-nav" aria-labelledby="enterprise-nav-solutions business-nav-buy" class="enterprise-nav__content" data-test-live-enterprise-upsell="true" data-tracking-control-name="learning-page-not-found_enterprise-nav" data-tracking-will-navigate="true" data-tracking-impression-name="lil_upsell_learning-page-not-found_enterprise-nav_teambuy" id="business-nav-buy">Buy for my team</a>
+        </div>
+      </div>
+  
+          
+        </div>
+
+      
+      <main id="main-content" class="focus-page__core-rail" tabindex="-1">
+        
+            <div class="flex items-center justify-center w-full pt-6 pb-2">
+              
+    
+    
+    
+    
+
+      <div class="page-not-found">
+        <img data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ffiru572svmm1u1rg9jz42hx" alt>
+        <h1 class="page-not-found__headline">
+          This page doesn’t exist
+        </h1>
+<!---->        <a class="page-not-found__primary-cta-button" href="https://www.linkedin.com/learning-login/?redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Flearning%2F%3Ftrk%3Dlynda_redirect_learning&amp;trk=learning-page-not-found-primary-cta" data-test-id="page-not-found__primary-cta-button" data-tracking-control-name="learning-page-not-found-primary-cta" data-tracking-will-navigate>
+          Sign in
+        </a>
+          <a class="page-not-found__secondary-cta-button" href="https://www.linkedin.com/learning/?trk=learning-page-not-found-secondary-cta" data-test-id="page-not-found__secondary-cta-button" data-tracking-control-name="learning-page-not-found-secondary-cta" data-tracking-will-navigate>
+            Go to LinkedIn Learning home page
+          </a>
+<!----><!----><!---->      </div>
+  
+            </div>
+          
+      </main>
+
+        <div class="focus-page__pre-footer">
+          
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    <section class="tw-linkster bg-cool-gray-20 browse-map" data-impression-id="learning-page-not-found_linkster" data-js-module-id="linkster">
+      <div class="max-w-screen-content-max-w w-full flex justify-between my-0 mx-auto mamabear:px-3 babybear:px-2 babybear:flex-col">
+          
+        
+
+    
+
+      <div class="flex-1 w-1/2 pt-2 pr-4 pb-4 pl-0 babybear:pb-2 babybear:w-full babybear:border-b-1 babybear:border-solid babybear:border-color-border-low-emphasis babybear:last:border-b-0">
+          <h3 class="text-md font-bold text-color-text leading-open">
+            Explore Business Topics
+          </h3>
+        <ul class="my-1">
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/artificial-intelligence-for-business-29605417?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Artificial Intelligence for Business
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/business-analysis-and-strategy?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Business Analysis and Strategy
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/business-software-and-tools?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Business Software and Tools
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/career-development-5?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Career Development
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/customer-service-3?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Customer Service
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/diversity-equity-and-inclusion-dei?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Diversity, Equity, and Inclusion (DEI)
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/finance-and-accounting?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Finance and Accounting
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/human-resources-3?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Human Resources
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/leadership-and-management?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Leadership and Management
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/marketing-2?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Marketing
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/professional-development?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Professional Development
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/project-management?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Project Management
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/sales-3?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Sales
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/small-business-and-entrepreneurship?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Small Business and Entrepreneurship
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/training-and-education?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Training and Education
+              </a>
+            </li>
+        </ul>
+
+          <a class="link tw-linkster-general-link" aria-label="See all business courses" href="https://www.linkedin.com/learning/topics/business?trk=learning-page-not-found_browsemap_general-link" data-tracking-control-name="learning-page-not-found_browsemap_general-link" data-tracking-will-navigate>
+              See all
+          </a>
+      </div>
+  
+        
+
+    
+
+      <div class="flex-1 w-1/2 pt-2 pr-4 pb-4 pl-0 babybear:pb-2 babybear:w-full babybear:border-b-1 babybear:border-solid babybear:border-color-border-low-emphasis babybear:last:border-b-0">
+          <h3 class="text-md font-bold text-color-text leading-open">
+            Explore Creative Topics
+          </h3>
+        <ul class="my-1">
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/aec?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                AEC
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/animation-and-illustration?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Animation and Illustration
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/audio-and-music?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Audio and Music
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/graphic-design?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Graphic Design
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/motion-graphics-and-vfx?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Motion Graphics and VFX
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/photography-2?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Photography
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/product-and-manufacturing?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Product and Manufacturing
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/user-experience?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                User Experience
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/2015-54?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Video
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/visualization-and-real-time?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Visualization and Real-Time
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/web-design?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Web Design
+              </a>
+            </li>
+        </ul>
+
+          <a class="link tw-linkster-general-link" aria-label="See all creative courses" href="https://www.linkedin.com/learning/topics/creative?trk=learning-page-not-found_browsemap_general-link" data-tracking-control-name="learning-page-not-found_browsemap_general-link" data-tracking-will-navigate>
+              See all
+          </a>
+      </div>
+  
+        
+
+    
+
+      <div class="flex-1 w-1/2 pt-2 pr-4 pb-4 pl-0 babybear:pb-2 babybear:w-full babybear:border-b-1 babybear:border-solid babybear:border-color-border-low-emphasis babybear:last:border-b-0">
+          <h3 class="text-md font-bold text-color-text leading-open">
+            Explore Technology Topics
+          </h3>
+        <ul class="my-1">
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/artificial-intelligence?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Artificial Intelligence (AI)
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/cloud-computing-5?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Cloud Computing
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/security-3?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Cybersecurity
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/data-science?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Data Science
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/database-management?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Database Management
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/devops?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                DevOps
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/hardware?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Hardware
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/it-help-desk-5?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                IT Help Desk
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/mobile-development?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Mobile Development
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/network-and-system-administration?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Network and System Administration
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/software-development?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Software Development
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/web-development?trk=learning-page-not-found_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-page-not-found_browsemap_link" data-tracking-will-navigate>
+                Web Development
+              </a>
+            </li>
+        </ul>
+
+          <a class="link tw-linkster-general-link" aria-label="See all technology courses" href="https://www.linkedin.com/learning/topics/technology?trk=learning-page-not-found_browsemap_general-link" data-tracking-control-name="learning-page-not-found_browsemap_general-link" data-tracking-will-navigate>
+              See all
+          </a>
+      </div>
+  
+    
+      </div>
+    </section>
+  
+  
+          
+        </div>
+
+        
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+    <footer class="li-footer bg-transparent w-full ">
+      <ul class="li-footer__list flex flex-wrap flex-row items-start justify-start w-full h-auto min-h-[50px] my-[0px] mx-auto py-3 px-2 papabear:p-0">
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        
+          <span class="sr-only">LinkedIn</span>
+          <icon class="li-footer__copy-logo text-color-logo-brand-alt inline-block self-center h-[14px] w-[56px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/5mebydpuuijm3uhv1q375inqh"></icon>
+          <span class="li-footer__copy-text flex items-center">&copy; 2025</span>
+        
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://about.linkedin.com?trk=learning-page-not-found_footer-about" data-tracking-control-name="learning-page-not-found_footer-about" data-tracking-will-navigate>
+          
+          About
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/accessibility?trk=learning-page-not-found_footer-accessibility" data-tracking-control-name="learning-page-not-found_footer-accessibility" data-tracking-will-navigate>
+          
+          Accessibility
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/user-agreement?trk=learning-page-not-found_footer-user-agreement" data-tracking-control-name="learning-page-not-found_footer-user-agreement" data-tracking-will-navigate>
+          
+          User Agreement
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/privacy-policy?trk=learning-page-not-found_footer-privacy-policy" data-tracking-control-name="learning-page-not-found_footer-privacy-policy" data-tracking-will-navigate>
+          
+          Privacy Policy
+        
+        </a>
+  </li>
+
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/california-privacy-disclosure?trk=learning-page-not-found_footer-california-privacy-rights-act" data-tracking-control-name="learning-page-not-found_footer-california-privacy-rights-act" data-tracking-will-navigate>
+          
+            Your California Privacy Choices
+          
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/cookie-policy?trk=learning-page-not-found_footer-cookie-policy" data-tracking-control-name="learning-page-not-found_footer-cookie-policy" data-tracking-will-navigate>
+          
+          Cookie Policy
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/copyright-policy?trk=learning-page-not-found_footer-copyright-policy" data-tracking-control-name="learning-page-not-found_footer-copyright-policy" data-tracking-will-navigate>
+          
+          Copyright Policy
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://brand.linkedin.com/policies?trk=learning-page-not-found_footer-brand-policy" data-tracking-control-name="learning-page-not-found_footer-brand-policy" data-tracking-will-navigate>
+          
+          Brand Policy
+        
+        </a>
+  </li>
+
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/psettings/guest-controls?trk=learning-page-not-found_footer-guest-controls" data-tracking-control-name="learning-page-not-found_footer-guest-controls" data-tracking-will-navigate>
+          
+            Guest Controls
+          
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/professional-community-policies?trk=learning-page-not-found_footer-community-guide" data-tracking-control-name="learning-page-not-found_footer-community-guide" data-tracking-will-navigate>
+          
+          Community Guidelines
+        
+        </a>
+  </li>
+
+        
+<!---->
+          
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        
+              
+
+    
+    
+
+    
+
+    
+
+    <div class="collapsible-dropdown collapsible-dropdown--footer collapsible-dropdown--up flex items-center relative hyphens-auto language-selector z-2">
+<!---->
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-[9999] bottom-[100%] top-auto" role="menu" tabindex="-1">
+          
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="العربية (Arabic)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ar_AE" data-locale="ar_AE" role="menuitem" lang="ar_AE">
+                العربية (Arabic)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="বাংলা (Bangla)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-bn_IN" data-locale="bn_IN" role="menuitem" lang="bn_IN">
+                বাংলা (Bangla)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Čeština (Czech)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-cs_CZ" data-locale="cs_CZ" role="menuitem" lang="cs_CZ">
+                Čeština (Czech)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Dansk (Danish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-da_DK" data-locale="da_DK" role="menuitem" lang="da_DK">
+                Dansk (Danish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Deutsch (German)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-de_DE" data-locale="de_DE" role="menuitem" lang="de_DE">
+                Deutsch (German)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Ελληνικά (Greek)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-el_GR" data-locale="el_GR" role="menuitem" lang="el_GR">
+                Ελληνικά (Greek)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="English (English) selected" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link--selected" data-tracking-control-name="language-selector-en_US" data-locale="en_US" role="menuitem" lang="en_US">
+                <strong>English (English)</strong>
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Español (Spanish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-es_ES" data-locale="es_ES" role="menuitem" lang="es_ES">
+                Español (Spanish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="فارسی (Persian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-fa_IR" data-locale="fa_IR" role="menuitem" lang="fa_IR">
+                فارسی (Persian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Suomi (Finnish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-fi_FI" data-locale="fi_FI" role="menuitem" lang="fi_FI">
+                Suomi (Finnish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Français (French)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-fr_FR" data-locale="fr_FR" role="menuitem" lang="fr_FR">
+                Français (French)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="हिंदी (Hindi)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-hi_IN" data-locale="hi_IN" role="menuitem" lang="hi_IN">
+                हिंदी (Hindi)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Magyar (Hungarian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-hu_HU" data-locale="hu_HU" role="menuitem" lang="hu_HU">
+                Magyar (Hungarian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Bahasa Indonesia (Indonesian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-in_ID" data-locale="in_ID" role="menuitem" lang="in_ID">
+                Bahasa Indonesia (Indonesian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Italiano (Italian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-it_IT" data-locale="it_IT" role="menuitem" lang="it_IT">
+                Italiano (Italian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="עברית (Hebrew)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-iw_IL" data-locale="iw_IL" role="menuitem" lang="iw_IL">
+                עברית (Hebrew)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="日本語 (Japanese)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ja_JP" data-locale="ja_JP" role="menuitem" lang="ja_JP">
+                日本語 (Japanese)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="한국어 (Korean)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ko_KR" data-locale="ko_KR" role="menuitem" lang="ko_KR">
+                한국어 (Korean)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="मराठी (Marathi)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-mr_IN" data-locale="mr_IN" role="menuitem" lang="mr_IN">
+                मराठी (Marathi)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Bahasa Malaysia (Malay)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ms_MY" data-locale="ms_MY" role="menuitem" lang="ms_MY">
+                Bahasa Malaysia (Malay)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Nederlands (Dutch)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-nl_NL" data-locale="nl_NL" role="menuitem" lang="nl_NL">
+                Nederlands (Dutch)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Norsk (Norwegian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-no_NO" data-locale="no_NO" role="menuitem" lang="no_NO">
+                Norsk (Norwegian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="ਪੰਜਾਬੀ (Punjabi)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pa_IN" data-locale="pa_IN" role="menuitem" lang="pa_IN">
+                ਪੰਜਾਬੀ (Punjabi)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Polski (Polish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pl_PL" data-locale="pl_PL" role="menuitem" lang="pl_PL">
+                Polski (Polish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Português (Portuguese)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pt_BR" data-locale="pt_BR" role="menuitem" lang="pt_BR">
+                Português (Portuguese)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Română (Romanian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ro_RO" data-locale="ro_RO" role="menuitem" lang="ro_RO">
+                Română (Romanian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Русский (Russian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ru_RU" data-locale="ru_RU" role="menuitem" lang="ru_RU">
+                Русский (Russian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Svenska (Swedish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-sv_SE" data-locale="sv_SE" role="menuitem" lang="sv_SE">
+                Svenska (Swedish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="తెలుగు (Telugu)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-te_IN" data-locale="te_IN" role="menuitem" lang="te_IN">
+                తెలుగు (Telugu)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="ภาษาไทย (Thai)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-th_TH" data-locale="th_TH" role="menuitem" lang="th_TH">
+                ภาษาไทย (Thai)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Tagalog (Tagalog)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-tl_PH" data-locale="tl_PH" role="menuitem" lang="tl_PH">
+                Tagalog (Tagalog)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Türkçe (Turkish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-tr_TR" data-locale="tr_TR" role="menuitem" lang="tr_TR">
+                Türkçe (Turkish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Українська (Ukrainian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-uk_UA" data-locale="uk_UA" role="menuitem" lang="uk_UA">
+                Українська (Ukrainian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Tiếng Việt (Vietnamese)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-vi_VN" data-locale="vi_VN" role="menuitem" lang="vi_VN">
+                Tiếng Việt (Vietnamese)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="简体中文 (Chinese (Simplified))" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-zh_CN" data-locale="zh_CN" role="menuitem" lang="zh_CN">
+                简体中文 (Chinese (Simplified))
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="正體中文 (Chinese (Traditional))" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-zh_TW" data-locale="zh_TW" role="menuitem" lang="zh_TW">
+                正體中文 (Chinese (Traditional))
+            </button>
+          </li>
+<!---->      
+        </ul>
+
+          
+        <button class="language-selector__button select-none relative pr-2 font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover hover:cursor-pointer focus:text-color-link-focus focus:outline-dotted focus:outline-1" aria-expanded="false" data-tracking-control-name="footer-lang-dropdown_trigger">
+          <span class="language-selector__label-text mr-0.5 break-words">
+            Language
+          </span>
+          <icon class="language-selector__label-chevron w-2 h-2 absolute top-0 right-0" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+        </button>
+      
+    </div>
+  
+  
+          
+  </li>
+
+      </ul>
+
+<!---->    </footer>
+  
+    </div>
+  
+      
+
+            <script src="https://static.licdn.com/aero-v1/sc/h/4rfvieeqozea5c2teruygcmt9" async></script>
+<!---->          
+          <script src="https://static.licdn.com/aero-v1/sc/h/cklsu05wul0qr622mis6sm2nv" async defer></script>
+        <code id="contextData" style="display: none"><!--{"isClient":false,"memberId":0,"isBot":true,"isLinkedInAppWebView":false,"storageTrackerInventory":null,"enableCssInlining":false,"externalCssToInline":null,"enablePageViewHeartbeatTracking":true,"enableCoreWebTracking":true,"isLoggedIn":false,"disableJsBeaconPageKeySuffix":false,"nonIterableId":null,"language":"en","version":"2.0.3074","treeId":"AAZFyLEUZ6lxb37gCcMZyQ==","referer":null,"userAgent":"python-requests/2.32.4","browserId":"0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","cookies":{},"pageKey":"d_learning_page_not_found_guest","appName":"learning-guest-frontend","pageInstance":"urn:li:page:learning_course_guest;6jwXzxDfRZqtXYQIKiUKhA==","i18nPlaceholderStrictMode":false,"csrfToken":"ajax:2731337559378733194","domain":"www.linkedin.com","lixResults":{"mweb.adChoiceTakeover":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4837825,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"guest.google-auth-button-locale-support":{"treatmentIndex":1,"recursiveResults":[{"treatmentIndex":3,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4978835,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"treatment"}],"trackingUrns":null,"trackingEnabled":false,"experimentId":5007073,"segmentId":7,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"ssr.frontend.member.dfp.integration":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4828030,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"email.ssr.footer.app_section_chameleon_layout":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4940377,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"growth.app.auto.redirect.in.minutes":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4927624,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"m30"},"growth.FY25Q4.Holdout":{"treatmentIndex":3,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5027414,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"treatment"},"ssr-ui-lib.embeds.showTruncatedText":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5020227,"segmentId":-100,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"mweb.gdpr-consent-requirement-variant":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4986346,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"games.email-footer-solve-text":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4996024,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"ssr.frontend.privacy.enforcement.kill-switch":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5127666,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"email-ssr.should.remove.help.link":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"email.newsletter.series-follow.structured-content":{"treatmentIndex":1,"recursiveResults":[{"treatmentIndex":2,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":4943236,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"treatment"}],"trackingUrns":null,"trackingEnabled":false,"experimentId":5005661,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"email-ssr.header.redesign.skip_recipient_check":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5098268,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"ssr.frontend.member.dna.integration":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5138628,"segmentId":2,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"growth.otp_itp_support.library_update":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5015044,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"ssr.frontend.member.human.integration":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4828027,"segmentId":2,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"webview.human.integration":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4823150,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"growth.Guest.FY25Q4.Holdout":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":5027415,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"guest.google.base-page":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4776795,"segmentId":2,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"guest.human.integration":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5151506,"segmentId":4,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"seo.url.useFullUrlInPvePath":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4950775,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:experimentUrl:/learning/page-not-found","treatment":"control"},"guest.contextualSignInModal.redesign":{"treatmentIndex":1,"recursiveResults":[{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":4870864,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"}],"trackingUrns":null,"trackingEnabled":false,"experimentId":4926295,"segmentId":3,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"treatment2"},"guest.mweb.app.auto.redirect.direct.traffic":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4951634,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"email.footer.new-bg-color":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"guest.reporting.flavor":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4642458,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"growth.contextualSignInModal.mergeSignInSignUp":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"seo_email_preview_react_tool":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"guest.dq.sign-in-modal.design.update":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"growth_seo.google_auth.button_variants":{"treatmentIndex":1,"recursiveResults":[{"treatmentIndex":3,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4935017,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"treatment"}],"trackingUrns":null,"trackingEnabled":false,"experimentId":4961356,"segmentId":3,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"blue2"},"all.mweb-upsell.non-blocking":{"treatmentIndex":0,"recursiveResults":[{"treatmentIndex":3,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4935017,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"treatment"}],"trackingUrns":null,"trackingEnabled":false,"experimentId":5000572,"segmentId":3,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"voyager.api.infra.mobile-os-support":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4961238,"segmentId":3,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"guest.dfp.integration":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5066099,"segmentId":3,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"growth.guest_upsells.disable_one_tap_on_init_if_csm_shows":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"ssr-ui-lib.guest.useFullTapTarget":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"ssr.frontend.feed-stop-sponsored-fie-fae":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5132362,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"guest.google.tnc.flow":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"lego_p_mwlite_global_default_app_upsell_migration_slot":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4690804,"segmentId":6,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"email.base.width.size":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5017411,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"growth_seo.email.remove_anchor_width":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"growth.app.ios.auto.redirect.in.minutes":{"treatmentIndex":2,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5096148,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"m30"},"mweb-upsell-redesign.blocking.unsupported.path":{"treatmentIndex":1,"recursiveResults":[{"treatmentIndex":3,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4935017,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"treatment"}],"trackingUrns":null,"trackingEnabled":true,"experimentId":5121289,"segmentId":3,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"variant2"},"growth.Guest.FY25Q1.Holdout":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":4870864,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"article-ssr-frontend.guest.enable-share-modal":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":4650370,"segmentId":2,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"member.mweb.app.ios.auto.redirect":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5119633,"segmentId":2,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"ssr-ui-lib.guest.overflowAnywhereSafetyLix":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":4862955,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"growth.FY25Q2.Holdout":{"treatmentIndex":3,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4935017,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"treatment"},"voyager.api.feed-enable-pofma-tcd":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"email.static-badged-logo":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5046154,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"logo_with_count"},"cdn_use_cedexis_beacon":{"treatmentIndex":2,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5134034,"segmentId":4,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"pulsar"},"feedcontent-guest-frontend.url.post.showTranscript":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4898580,"segmentId":3,"stepNumber":null,"isolation":null,"urn":"urn:li:experimentUrl:/learning/page-not-found","treatment":"control"},"guest.mweb.app.ios.auto.redirect.referer":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5156346,"segmentId":5,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"guest.g2mFacepiles.contextualSignInModal":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4875077,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"feedcontent-guest-frontend.guest.post.showTranscript":{"treatmentIndex":1,"recursiveResults":[{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":4870864,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"}],"trackingUrns":null,"trackingEnabled":false,"experimentId":4916762,"segmentId":3,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"learning.guest.free-trial-copy":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5084199,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"email-ssr.header.games-notification-badge":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":5163395,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"zip_game"},"guest.mweb.app.ios.auto.redirect.direct.traffic":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"guest.mweb.app.android.auto.redirect.force_dest_type":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5084079,"segmentId":-100,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"guest.google.join.remove.undefined.values":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"guest.apfc.recaptcha.v3.load":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5170506,"segmentId":2,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"guest.mweb.app.ios.auto.redirect":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"guest.dna.integration":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5169757,"segmentId":2,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"webview.dna.integration":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4823154,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"guest.apfc.network.interceptor":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5068470,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"bolt.dark.mode.enabled":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":4438199,"segmentId":4,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled-light"},"guest.insightsTag.enabled":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"growth.contextualSignInModal.mergeSignInSignUp.v2":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"all.mweb-upsell.skip.context.path.in.url":{"treatmentIndex":1,"recursiveResults":[{"treatmentIndex":3,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4935017,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"treatment"}],"trackingUrns":null,"trackingEnabled":false,"experimentId":5053887,"segmentId":3,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"ssr-ui-lib.embeds.showLinkedInLogo":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5080593,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"games.email-footer.member-check":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"growth.dynamic_badging.high_dpi":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4945253,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"sync.apfc.couchbase":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"ssr-ui-lib.embeds.useUpdatedSocialReactions":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5080590,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"email.newsletter.series-follow.cover-video-consumption":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5009121,"segmentId":-100,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"guest.mweb.app.ios.auto.redirect.dismiss_timeout":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5156381,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"mweb.pofma.disabling.direction.interstitial.enabled":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4906459,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"guest.navbar.cta.ordering":{"treatmentIndex":1,"recursiveResults":[{"treatmentIndex":3,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":5080933,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"treatment"}],"trackingUrns":null,"trackingEnabled":false,"experimentId":5130883,"segmentId":3,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"email.ssr.update.unsubscribe.urls":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5086082,"segmentId":2,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"growth.Guest.FY26Q1.Holdout":{"treatmentIndex":3,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":5080933,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"treatment"},"ssr-ui-lib.embeds.hideSocialCta":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5080585,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"ads.leadgen.enableNewLqdnPrivacyPolicy":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4981421,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"webview.dfp.integration":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4823152,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"ssr-ui-lib.guest.topContentNavbarIcon":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5081518,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"create_fy25_h2_holdout":{"treatmentIndex":2,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":4943236,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"treatment"},"email-ssr.header.redesign":{"treatmentIndex":1,"recursiveResults":[{"treatmentIndex":3,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5027414,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"treatment"}],"trackingUrns":null,"trackingEnabled":false,"experimentId":5108954,"segmentId":2,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"feed-ssr-frontend.article-image-size":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4934203,"segmentId":-100,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"cdn_use_dyndns_beacon":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"privacy.cpra.shared":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4561300,"segmentId":2,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"guest.games-icon":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4867430,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"guest.mweb.app.auto.redirect.referer":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5168657,"segmentId":2,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"guest.navbar.cta.emphasis-join-now":{"treatmentIndex":0,"recursiveResults":[{"treatmentIndex":3,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":5080933,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"treatment"}],"trackingUrns":null,"trackingEnabled":true,"experimentId":5136462,"segmentId":4,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"games.email-footer":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"bolt.pofma.feed.annotation.enabled":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4890937,"segmentId":2,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"bolt.feed.lgf.multiple.url.enabled":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":4926523,"segmentId":1,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"pemberly.bpr.privacy.enforcement.isAuditEventEnabled":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5150865,"segmentId":4,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"hierarchical.experimentation.messaging.FY25Q1.holdout":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":4879453,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"guest.contextualSignInModal.v2":{"treatmentIndex":0,"recursiveResults":[{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":5027415,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"}],"trackingUrns":null,"trackingEnabled":false,"experimentId":5078215,"segmentId":2,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"growth.Guest.FY25Q3.Holdout":{"treatmentIndex":3,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4978835,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"treatment"},"feed-ssr-frontend.send-privately.enabled":{"treatmentIndex":1,"recursiveResults":[{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":true,"experimentId":4879453,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"}],"trackingUrns":null,"trackingEnabled":false,"experimentId":4968886,"segmentId":3,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"variant_2"},"mweb.feed.video-aspect-ratio":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4949895,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"enabled"},"ssr.frontend.social.action.padding":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"guest.emails.windows.appPromoSectionVariant":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4921630,"segmentId":3,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"email.base.show-banner":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":-1,"segmentId":-201,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"sync.apfc.headers":{"treatmentIndex":0,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":5170508,"segmentId":2,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"control"},"ssr.frontend.member.sampling.window.milliseconds":{"treatmentIndex":1,"recursiveResults":[],"trackingUrns":null,"trackingEnabled":false,"experimentId":4836922,"segmentId":0,"stepNumber":null,"isolation":null,"urn":"urn:li:guest:0b679a3a-f1aa-48d1-8496-aad3a80bc2ed","treatment":"value_86400000"}},"contextPath":"/learning-guest/","useScHashesJs":true,"isProd":true,"mpName":"learning-guest-frontend","disableDynamicConcat":true,"useCdn":true,"hashesDisabledByQueryParam":false,"isBrotliEnabled":false,"jsRoutes":"var jsRoutes = {}; (function(_root){\nvar _nS = function(c,f,b){var e=c.split(f||\".\"),g=b||_root,d,a;for(d=0,a=e.length;d\u003ca;d++){g=g[e[d]]=g[e[d]]||{}}return g}\nvar _qS = function(items){var qs = ''; for(var i=0;i\u003citems.length;i++) {if(items[i]) qs += (qs ? '&' : '') + items[i]}; return qs ? ('?' + qs) : ''}\nvar _s = function(p,s){return p+((s===true||(s&&s.secure))?'s':'')+'://'}\nvar _wA = function(r){return {ajax:function(c){c=c||{};c.url=r.url;c.type=r.method;return jQuery.ajax(c)}, method:r.method,type:r.method,url:r.url,absoluteURL: function(s){return _s('http',s)+'www.linkedin.com'+r.url},webSocketURL: function(s){return _s('ws',s)+'www.linkedin.com'+r.url}}}\n\n})(jsRoutes)","subdomainCountryCode":"us","requestIpCountryCode":"us","environment":"prod-lva1","rehydrate":false,"useEmailRenderer":false,"mobile":false,"browserType":"$UNKNOWN","osType":"$UNKNOWN","isCLDR":false,"isCorpNetworkRequest":false,"uriPath":"/learning-guest/learning/page-not-found","cdnUrl":"https://static.licdn.com/aero-v1","baseAssetsUrl":"https://static.licdn.com/aero-v1/sc/p/com.linkedin.learning-guest-frontend%3Alearning-guest-frontend-static-content%2B2.0.3074/f","baseScdsUrl":"https://static.licdn.com/aero-v1/scds","baseMediaUrl":"https://media.licdn.com/media","baseMprUrl":"https://media.licdn.com/mpr/mpr","baseSparkUrlForFiles":"https://static.licdn.com/aero-v1/sc/p/com.linkedin.learning-guest-frontend%3Alearning-guest-frontend-static-content%2B2.0.3074/f","baseSparkUrlForHashes":"https://static.licdn.com/aero-v1/sc/h","brotliBaseSparkUrlForHashes":"https://static.licdn.com/aero-v1/sc/h","scHashesUrl":"https://static.licdn.com/aero-v1/sc/h/asktpq9q1stn0bmxeoxdfhvf9","chameleonI18nStringMap":null,"chameleonImageMap":null,"queryString":{"trk":["lynda_redirect_learning"]},"docType":"\u003c!DOCTYPE html\u003e","locale":"en_US"}--></code>
+      
+          
+<!----><!---->  
+      </body>
+    </html>
+  
+  

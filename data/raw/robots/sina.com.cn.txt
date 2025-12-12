@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.sina.com.cn/sitemap/index.xml
