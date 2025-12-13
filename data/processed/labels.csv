@@ -9,7 +9,7 @@ reddit.com,0,0.187,0,1,1,robots_disallow_root,"html_status_403,missing_tos_file,
 pinterest.com,1,0.5,1,1,1,robots_has_allow,tiny_tos
 tiktok.com,1,0.5,1,1,1,robots_has_allow,tiny_tos
 snapchat.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
-wikipedia.org,2,0.8,2,1,1,auto-labeled; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+wikipedia.org,2,0.8,2,1,1,auto-labeled; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
 apple.com,1,0.5,1,1,1,robots_has_allow,complete
 microsoft.com,1,0.5,1,1,1,auto-labeled,tiny_tos
 amazon.com,1,0.35,1,1,1,robots_has_allow,"html_status_503,missing_tos_file,tos_http_missing,tos_status_not_found"
@@ -51,11 +51,11 @@ mit.edu,1,0.5,1,1,1,auto-labeled,"missing_tos_file,tos_http_missing,tos_status_n
 princeton.edu,1,0.5,1,1,1,auto-labeled,"missing_robots_file,missing_tos_file,robots_http_missing,robots_status_error,tos_http_missing,tos_status_not_found"
 ox.ac.uk,1,0.5,1,1,1,auto-labeled,complete
 cam.ac.uk,1,0.417,1,1,0,robots_has_allow; derivative_forbidden_in_tos,complete
-nih.gov,2,0.8,2,1,1,robots_has_allow; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,complete
-usa.gov,2,0.8,2,1,1,robots_has_allow; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,complete
+nih.gov,2,0.8,2,1,1,robots_has_allow; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,complete
+usa.gov,2,0.8,2,1,1,robots_has_allow; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,complete
 irs.gov,1,0.5,1,1,1,robots_has_allow,"missing_tos_file,tos_http_missing,tos_status_not_found"
 cia.gov,1,0.5,1,1,1,auto-labeled,"missing_tos_file,tos_http_missing,tos_status_not_found"
-nasa.gov,2,0.8,2,1,1,robots_has_allow; manual_promote_friendly_due_to_open_robots_and_public_data; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,"missing_tos_file,tos_http_missing,tos_status_not_found"
+nasa.gov,2,0.8,2,1,1,robots_has_allow; manual_promote_friendly_due_to_open_robots_and_public_data; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,"missing_tos_file,tos_http_missing,tos_status_not_found"
 europarl.europa.eu,1,0.5,1,1,1,auto-labeled,"missing_tos_file,tos_http_missing,tos_status_not_found"
 cisco.com,1,0.5,1,1,1,auto-labeled,complete
 oracle.com,1,0.35,1,1,1,robots_has_allow,html_status_403
@@ -138,10 +138,10 @@ aljazeera.com,1,0.5,1,1,1,robots_has_allow,complete
 sakura.ne.jp,1,0.5,1,1,1,auto-labeled,"missing_robots_file,missing_tos_file,robots_http_missing,robots_status_error,tos_http_missing,tos_status_not_found"
 cloudflare.com,1,0.5,1,1,1,auto-labeled,complete
 verisign.com,1,0.5,1,1,1,auto-labeled,complete
-huggingface.co,2,0.8,2,1,1,robots_has_allow; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,tiny_tos
+huggingface.co,2,0.8,2,1,1,robots_has_allow; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,tiny_tos
 kaggle.com,1,0.5,1,1,1,auto-labeled,"robots_http_404,tiny_tos"
 openai.com,1,0.35,1,1,1,robots_has_allow,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
-anthropic.com,1,0.583,2,1,1,robots_has_allow,complete
+anthropic.com,2,0.8,2,1,1,robots_has_allow; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,complete
 stability.ai,1,0.5,1,1,1,robots_has_allow,complete
 mozilla.org,1,0.5,1,1,1,auto-labeled,complete
 apache.org,1,0.5,1,1,1,auto-labeled,complete
