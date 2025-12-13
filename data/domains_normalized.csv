@@ -1,0 +1,151 @@
+domain,active,notes,normalized_domain
+google.com,1,Search & multi-service,google.com
+facebook.com,1,Social network,facebook.com
+youtube.com,1,Video platform,youtube.com
+twitter.com,1,Social network,twitter.com
+instagram.com,1,Social network,instagram.com
+linkedin.com,1,Professional network,linkedin.com
+reddit.com,1,Community forum,reddit.com
+pinterest.com,1,Visual discovery,pinterest.com
+tiktok.com,1,Short video,tiktok.com
+snapchat.com,1,Messaging app,snapchat.com
+wikipedia.org,1,Online encyclopedia,wikipedia.org
+apple.com,1,Tech company,apple.com
+microsoft.com,1,Tech company,microsoft.com
+amazon.com,1,E-commerce,amazon.com
+netflix.com,1,Streaming,netflix.com
+spotify.com,1,Music streaming,spotify.com
+adobe.com,1,Software,adobe.com
+github.com,1,Dev platform,github.com
+stackoverflow.com,1,Developer Q&A,stackoverflow.com
+stackexchange.com,1,Q&A network,stackexchange.com
+quora.com,1,Knowledge sharing,quora.com
+medium.com,1,Blogging,medium.com
+tumblr.com,1,Microblogging,tumblr.com
+wordpress.com,1,CMS,wordpress.com
+wix.com,1,Website builder,wix.com
+shopify.com,1,E-commerce platform,shopify.com
+walmart.com,1,Big retailer,walmart.com
+target.com,1,Retailer,target.com
+bestbuy.com,1,Tech retailer,bestbuy.com
+ebay.com,1,Marketplaces,ebay.com
+etsy.com,1,Marketplaces,etsy.com
+alibaba.com,1,Wholesale,alibaba.com
+aliexpress.com,1,Global retail,aliexpress.com
+yahoo.com,1,Portal,yahoo.com
+cnn.com,1,News,cnn.com
+bbc.com,1,News,bbc.com
+nytimes.com,1,News,nytimes.com
+washingtonpost.com,1,News,washingtonpost.com
+theguardian.com,1,News,theguardian.com
+forbes.com,1,Business news,forbes.com
+bloomberg.com,1,Business news,bloomberg.com
+reuters.com,1,News agency,reuters.com
+espn.com,1,Sports news,espn.com
+foxnews.com,1,News,foxnews.com
+npr.org,1,News,npr.org
+huffpost.com,1,News,huffpost.com
+harvard.edu,1,Education,harvard.edu
+stanford.edu,1,Education,stanford.edu
+mit.edu,1,Education,mit.edu
+princeton.edu,1,Education,princeton.edu
+ox.ac.uk,1,Education,ox.ac.uk
+cam.ac.uk,1,Education,cam.ac.uk
+nih.gov,1,Government,nih.gov
+usa.gov,1,Government,usa.gov
+irs.gov,1,Government,irs.gov
+cia.gov,1,Government,cia.gov
+nasa.gov,1,Government,nasa.gov
+europarl.europa.eu,1,Government,europarl.europa.eu
+cisco.com,1,Networking,cisco.com
+oracle.com,1,Software,oracle.com
+ibm.com,1,Tech,ibm.com
+salesforce.com,1,SaaS CRM,salesforce.com
+slack.com,1,Team comms,slack.com
+zoom.us,1,Video conferencing,zoom.us
+dropbox.com,1,Cloud storage,dropbox.com
+jira.com,1,Project tracking,jira.com
+trello.com,1,Project tracking,trello.com
+asana.com,1,Project tracking,asana.com
+notion.so,1,Workspace,notion.so
+airbnb.com,1,Travel,airbnb.com
+booking.com,1,Travel,booking.com
+uber.com,1,Transport,uber.com
+lyft.com,1,Transport,lyft.com
+expedia.com,1,Travel,expedia.com
+tripadvisor.com,1,Travel,tripadvisor.com
+skyscanner.net,1,Travel,skyscanner.net
+trivago.com,1,Travel,trivago.com
+yelp.com,1,Business reviews,yelp.com
+foursquare.com,1,Local info,foursquare.com
+craigslist.org,1,Classifieds,craigslist.org
+indeed.com,1,Jobs,indeed.com
+monster.com,1,Jobs,monster.com
+glassdoor.com,1,Jobs,glassdoor.com
+careerbuilder.com,1,Jobs,careerbuilder.com
+ziprecruiter.com,1,Jobs,ziprecruiter.com
+paypal.com,1,Payments,paypal.com
+stripe.com,1,Payments,stripe.com
+venmo.com,1,Payments,venmo.com
+squareup.com,1,Payments,squareup.com
+robinhood.com,1,Finance,robinhood.com
+coinbase.com,1,Crypto,coinbase.com
+binance.com,1,Crypto,binance.com
+kraken.com,1,Crypto,kraken.com
+imdb.com,1,Entertainment,imdb.com
+rotten-tomatoes.com,1,Entertainment,rotten-tomatoes.com
+metacritic.com,1,Entertainment,metacritic.com
+soundcloud.com,1,Music,soundcloud.com
+bandcamp.com,1,Music,bandcamp.com
+vimeo.com,1,Video,vimeo.com
+dailymotion.com,1,Video,dailymotion.com
+twitch.tv,1,Video streaming,twitch.tv
+discord.com,1,Chat,discord.com
+telegram.org,1,Chat,telegram.org
+signal.org,1,Chat,signal.org
+whatsapp.com,1,Chat,whatsapp.com
+wechat.com,1,Chat,wechat.com
+qq.com,1,Platform,qq.com
+sina.com.cn,1,Portal,sina.com.cn
+taobao.com,1,E-commerce,taobao.com
+jd.com,1,E-commerce,jd.com
+yandex.ru,1,Search,yandex.ru
+mail.ru,1,Portal,mail.ru
+alipay.com,1,Payments,alipay.com
+baidu.com,1,Search,baidu.com
+zillow.com,1,Real estate,zillow.com
+trulia.com,1,Real estate,trulia.com
+realtor.com,1,Real estate,realtor.com
+redfin.com,1,Real estate,redfin.com
+carfax.com,1,Auto data,carfax.com
+cars.com,1,Auto marketplace,cars.com
+autotrader.com,1,Auto marketplace,autotrader.com
+edx.org,1,Online learning,edx.org
+coursera.org,1,Online learning,coursera.org
+khanacademy.org,1,Online learning,khanacademy.org
+udemy.com,1,Online courses,udemy.com
+skillshare.com,1,Online courses,skillshare.com
+codecademy.com,1,Coding education,codecademy.com
+udacity.com,1,Online tech courses,udacity.com
+lynda.com,1,Online courses,lynda.com
+msn.com,1,Portal,msn.com
+aol.com,1,Portal,aol.com
+hulu.com,1,Streaming,hulu.com
+disneyplus.com,1,Streaming,disneyplus.com
+hbo.com,1,Streaming,hbo.com
+bbc.co.uk,1,News,bbc.co.uk
+aljazeera.com,1,News,aljazeera.com
+sakura.ne.jp,1,Unique/International,sakura.ne.jp
+cloudflare.com,1,CDN and DDoS protection provider,cloudflare.com
+verisign.com,1,Domain registry and DNS authority,verisign.com
+huggingface.co,1,AI/ML model sharing platform,huggingface.co
+kaggle.com,1,Data science competition platform,kaggle.com
+openai.com,1,AI research and API provider,openai.com
+anthropic.com,1,AI research company,anthropic.com
+stability.ai,1,Open diffusion model company,stability.ai
+mozilla.org,1,Open-source foundation,mozilla.org
+apache.org,1,Open-source software foundation,apache.org
+openweather.co,1,Weather API provider,openweather.co
+unsplash.com,1,Free image API and content site,unsplash.com
+mastodon.social,1,Decentralized social network,mastodon.social
+substack.com,1,Publishing and newsletter platform,substack.com

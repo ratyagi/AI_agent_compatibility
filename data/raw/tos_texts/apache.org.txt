@@ -1,0 +1,70 @@
+ASF Legal & Trademark | Apache Software Foundations
+ASF Legal & Trademark
+Legal Information for Users of Apache Products
+¶
+The following pages provide information for users of Apache Products (i.e. software products from the ASF).
+Page
+Description
+Apache Licenses
+Details the Apache License 2.0 and other licences from the ASF
+Records of Incorporation and Tax Status
+Our official records
+Information on encryption within Apache products
+Export Control information
+Trademark and Logo Usage Guidelines
+Our Trademark policy
+DMCA Designated Agent page
+For DMCA-related issues
+We appreciate feedback on our licenses, agreements and processes (see
+communications
+). Sadly, we are unable to offer legal opinions or advice to the public.
+Legal Policies for Apache Committers
+¶
+The following pages provide information for Apache Software Foundation committers to assist in their work on Apache Products.
+Page
+Description
+ASF Release Policy
+Apache Release Policy for Apache Products
+Apache Software Foundation 3rd Party License Policy
+Information related to third-party license use in Apache Products
+Source Header and Copyright Notice Policy
+Instructions on the application of source headers to ASF source files
+CLA FAQ
+Questions related to signing our
+Contributor License Agreements
+Handling Cryptography within an ASF Release
+Cryptography Policy
+Generative Tooling Guidance
+Guidance relating to the use of Generative Tooling
+The Legal Affairs Committee
+¶
+The Legal Affairs Committee was established in March 2007 and is responsible for establishing, and managing,
+legal policies based on the advice of legal counsel and the interests of the Foundation. It reports to the board each month.
+Questions for the Legal Affairs Committee should be raised on
+LEGAL JIRA space
+.
+Most discussions are held on the public
+legal-discuss@
+mailing list. See the
+legal-discuss@
+archives
+for previous discussions.
+The Legal Affairs Committee (including VP of Legal Affairs) is staffed exclusively by volunteers
+and is leveraging a pro-bono legal counsel. This means that while most requests are typically
+resolved in a matter of few days, sometimes non-urgent requests can take longer. We will try
+to acknowledge your request within a couple of days, but the actual resolution may take
+much longer. For truly urgent matters always make sure to contact
+vp-legal@apache.org
+directly.
+Historical and background documents
+¶
+Page
+Description
+Legal Affairs reports
+The board reports to date
+Draft Third-Party Licensing Policy
+Cliff Schmidt's original drafting. While never enacted, this draft provided the foundation from which the current policy evolved
+Ramblings of an ASF VP of Legal Affairs (blog post)
+Sam Ruby's subsequent thoughts
+Subscribe to ASF Plus One, Our Monthly Newsletter
+Subscribe Now

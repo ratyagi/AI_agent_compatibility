@@ -1,0 +1,54 @@
+User-agent: *                                                           
+Disallow: /*?_branch_view_id=
+Disallow: /*VIN=
+Disallow: /*vin=
+Disallow: /*cmp=
+Disallow: /*compcode=
+Disallow: /*email=
+Disallow: /*partner=
+Disallow: /*partnerCode
+Disallow: /*partnercode
+Disallow: /*report=
+Disallow: /*source=
+Disallow: /DP_Rpt_Links/
+Disallow: /*displayhistoryrpt*
+Disallow: /DP_Rpt_links/
+Disallow: /dp_rpt_links/
+Disallow: /Definitions/
+Disallow: /definitions/
+Disallow: /MbgRefund/
+Disallow: /mbgrefund/
+Disallow: /VehicleHistory/
+Disallow: /vehiclehistory/
+Disallow: /api/
+Disallow: /arsapi/
+Disallow: /auto-repair-shops/
+Disallow: /bbg/
+Disallow: /car-dealer/api
+Disallow: /cfm/
+Disallow: /consumer-api-gateway/
+Disallow: /contact/
+Disallow: /dealerinventory/
+Disallow: /Directory/data   #API
+Disallow: /dealers/
+Disallow: /directions/
+Disallow: /fsb/
+Disallow: /icr-form/
+Disallow: /knowledge/
+Disallow: /manifest/
+Disallow: /pdf/
+Disallow: /phoenix/
+Disallow: /service/myxapi #API
+Disallow: /signin*	#sign in for mycarfax
+Disallow: /sign-up/
+Disallow: /signup*	#sign up for mycarfax
+Disallow: /sortOrder/
+Disallow: /sortorder/
+Disallow: /vehicle/ 
+Disallow: /viewCustomerReport.do?*
+Disallow: /viewcustomerreport.do?*
+Disallow: /viewEmailReport.do*
+Disallow: /viewemailreport.do*
+Disallow: /vrpassets/data #vrs-API
+Disallow: /vrs  #API
+Disallow: /warranty/

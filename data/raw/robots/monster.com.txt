@@ -1,0 +1,37 @@
+#2025-12-09
+User-agent: *
+
+Allow: /jobs/*?page=1
+Disallow: /jobs/*?page=*
+Disallow: */jobs/search*
+Disallow: */career-advice/article?q=*
+Disallow: */jobs/sharewithfriend
+Disallow: */reviews
+Disallow: */Agents/
+Disallow: */apply/
+Disallow: */applyStart.asp
+Disallow: */become-member/
+Disallow: */columntemplatesearch
+Disallow: */Controls/
+Disallow: */default.aspx_Confirmation.evt
+Disallow: */DoNotAddToP4/UserControls/
+Disallow: */Error
+Disallow: */Error.aspx
+Disallow: */jbs/
+Disallow: */lpfsearch
+Disallow: */ManageSavedSearch
+Disallow: */services/
+Disallow: /cmslanding.aspx
+Disallow: /contact.
+Disallow: /advertise-a-job/service*  	
+Disallow: /assets/service*
+Disallow: /jobs/job-title/*
+Disallow: /salary/q*
+Disallow: /visitor/*
+
+Sitemap: https://www.monster.com/sitemaps-psps-index.xml
+Sitemap: https://www.monster.com/sitemaps-browse-jobs-index.xml
+Sitemap: https://www.monster.com/salary/sitemap/sitemap_seo.xml
+Sitemap: https://www.monster.com/jobview-zuq65ljydx-us.xml
+Sitemap: https://www.monster.com/company/sitemap/sitemapseo.xml
+Sitemap: https://www.monster.com/career-advice/sitemap.xml

@@ -1,0 +1,160 @@
+# CUSTOM OPT-OUT PER USER AGENT
+
+User-agent: googlebot
+Allow: /
+Disallow: /unsubscribe
+Disallow: /job/track-pageview
+Disallow: /facebook/
+Disallow: /amazon/
+Disallow: /job/track-apply-click
+Disallow: /job/monster-apply-request
+Disallow: /?search=
+Disallow: /geo/job_title
+Disallow: /blog/wp-admin/
+Disallow: /contact/zip-resume
+Disallow: /resume-database/preview-iframe
+Disallow: /resume/preview/
+Disallow: /admin
+Disallow: /login/
+Disallow: /trk
+Disallow: /get-auto-banners
+Disallow: /record-event
+Disallow: /events
+Disallow: /apply/
+Disallow: /eclk/
+Disallow: /ek/
+Disallow: /job-redirect/
+Disallow: /pixel/
+Disallow: /chat/get-chat-auth-token
+Disallow: /ajax/
+Disallow: /tap/
+Disallow: /jobs/*/closest$
+Disallow: /jobs/*/clipboard-action$
+Disallow: /jobs/*/is$
+Disallow: /svc/seo/
+Disallow: /submit-reference
+Disallow: /candidate/onboard
+
+
+User-agent: Google-Extended
+User-agent: Google-News
+User-agent: Googlebot-Image/1.0
+User-agent: Googlebot-Video/1.0
+User-agent: bingbot
+User-agent: Applebot
+User-agent: Pinterestbot
+User-agent: Slackbot
+User-agent: LinkedInBot
+User-agent: Snapchat
+User-agent: facebookexternalhit/1.1
+User-agent: TelegramBot
+User-agent: msnbot
+User-agent: Slurp
+User-agent: WhatsApp
+User-agent: ChatGPT-User
+User-agent: OAI-SearchBot
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+Allow: /
+Disallow: /unsubscribe
+Disallow: /job/track-pageview
+Disallow: /facebook/
+Disallow: /amazon/
+Disallow: /job/track-apply-click
+Disallow: /job/monster-apply-request
+Disallow: /?search=
+Disallow: /geo/job_title
+Disallow: /blog/wp-admin/
+Disallow: /contact/zip-resume
+Disallow: /resume-database/preview-iframe
+Disallow: /resume/preview/
+Disallow: /admin
+Disallow: /login/
+Disallow: /trk
+Disallow: /get-auto-banners
+Disallow: /record-event
+Disallow: /events
+Disallow: /apply/
+Disallow: /eclk/
+Disallow: /ek/
+Disallow: /job-redirect/
+Disallow: /pixel/
+Disallow: /chat/get-chat-auth-token
+Disallow: /ajax/
+Disallow: /tap/
+Disallow: /jobs/*/closest$
+Disallow: /jobs/*/clipboard-action$
+Disallow: /jobs/*/is$
+Disallow: /svc/seo/
+Disallow: /submit-reference
+Disallow: /jobs-search
+Disallow: /candidate/onboard
+
+
+User-agent: 008
+User-agent: OmniExplorer_Bot
+User-agent: PetalBot
+User-agent: MegaIndex.ru
+User-agent: Scrapy
+User-agent: TweetmemeBot
+User-agent: AccompanyBot
+User-agent: Techiejobs.co
+User-agent: ia_archiver
+User-agent: Cliqzbot
+User-agent: JobdiggerSpider
+User-agent: GoogleOther
+Disallow: /
+
+# GLOBAL OPT-OUT LIST
+# NOTE: This is the global list, but it is overriden if a user-agent has a custom list defined.
+# Ensure you replicate any new url in those lists if you want to completely block it from being crawled.
+User-agent: *
+Allow: /
+Disallow: /unsubscribe
+Disallow: /job/track-pageview
+Disallow: /facebook/
+Disallow: /amazon/
+Disallow: /job/track-apply-click
+Disallow: /job/monster-apply-request
+Disallow: /?search=
+Disallow: /geo/job_title
+Disallow: /blog/wp-admin/
+Disallow: /contact/zip-resume
+Disallow: /resume-database/preview-iframe
+Disallow: /resume/preview/
+Disallow: /admin
+Disallow: /login/ # want the main login page allowed, but not pages under /login/
+Disallow: /trk
+Disallow: /get-auto-banners
+Disallow: /record-event
+Disallow: /events
+Disallow: /apply/ # want apply allowed, but not pages under /apply/
+Disallow: /eclk/
+Disallow: /ek/
+Disallow: /job-redirect/
+Disallow: /pixel/
+Disallow: /chat/get-chat-auth-token
+Disallow: /ajax/
+Disallow: /tap/
+
+# SERPS are only allowed to be crawled by googlebot
+Disallow: /jobs-search
+
+# DIRPS are only allowed to be crawled by googlebot, bingbot
+Disallow: /Jobs/
+Disallow: /Salaries/
+Disallow: /n/
+Disallow: /co/
+Disallow: /e/
+
+# Block URLs that are likely added by js clipboard library
+Disallow: /jobs/*/closest$
+Disallow: /jobs/*/clipboard-action$
+Disallow: /jobs/*/is$
+
+# Block temporary pages of the go seo app
+Disallow: /svc/seo/
+
+# Block profile reference & verify skill links
+Disallow: /submit-reference

@@ -1,0 +1,105 @@
+# robots.txt for www.reuters.com
+
+User-agent: PiplBot
+Disallow: /
+
+User-agent: CCbot
+Disallow: /
+
+# ADO-657700
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+#
+
+User-agent: FacebookBot
+Disallow: /
+
+# ADO-658177
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+# ADO-661811
+User-agent: Applebot-Extended
+Disallow: /
+
+# ADO-726772
+User-agent: Claude-User
+Disallow: /
+
+User-agent: Claude-SearchBot
+Disallow: /
+
+# ADO-727160
+User-agent: AliyunSecBot/Aliyun 
+Disallow: /
+
+User-agent: Alibaba.Security.Heimdall 
+Disallow: /
+
+# ADO-730264
+User-agent: Feedfetcher-Google
+Disallow: /
+
+User-agent: *
+Disallow: /finance/stocks/option
+Disallow: /finance/stocks/financialHighlights
+Disallow: /search
+Disallow: /site-search/
+Disallow: /beta
+Disallow: /designtech
+Disallow: /featured-optimize
+Disallow: /energy-test
+Disallow: /article/beta
+Disallow: /sponsored/previewcampaign
+Disallow: /sponsored/previewarticle
+Disallow: /test/
+Disallow: /news/archive/commentary
+Disallow: /brandfeatures/venture-capital
+Disallow: /assets/siteindex
+Disallow: /article/api/
+Disallow: /practical-law-the-journal/search/
+Disallow: /pf/api/
+Disallow: /fr/
+Disallow: /it/
+Disallow: /es/
+Disallow: /pt/
+Disallow: /de/
+Disallow: /account/subscribe/payment/
+
+SITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-index/?outputType=xml
+SITEMAP: https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml
+SITEMAP: https://www.reuters.com/plus/sitemap-index.xml
+SITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-plj-index/?outputType=xml
+SITEMAP: https://www.reuters.com/graphics/sitemap.xml
+SITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-index/pictures/?outputType=xml
+SITEMAP: https://www.reuters.com/static/video-sitemap/us/sitemap_video_index.xml
+SITEMAP: https://www.reuters.com/arc/outboundfeeds/topic-sitemap/?outputType=xml
+SITEMAP: https://www.reuters.com/arc/outboundfeeds/author-sitemap/?outputType=xml
+SITEMAP: https://www.reuters.com/arc/outboundfeeds/pressrelease-sitemap/?outputType=xml
