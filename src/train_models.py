@@ -28,8 +28,27 @@ from sklearn.metrics import (
     mean_squared_error,
 )
 
-DATA_DIR = Path("data/processed")
+def make_non_negative(X):
+    """Ensure all entries are >= 0 (got error with MultinomialNB)."""
+    if sp.issparse(X):
+        X = X.tocsr(copy=True)
+        data = X.data
+        data[data < 0] = 0.0
+        return X
+    else:
+        X = np.array(X, copy=True)
+        X[X < 0] = 0.0
+        return X
 
+def make_stratified_cv(y, max_splits=5):
+    """Choose a valid number for fied folds based on the smallest class size. (min 2)"""
+    _, counts = np.unique(y, return_counts=True)
+    min_class_count = counts.min()
+    n_splits = max(2, min(max_splits, int(min_class_count)))
+    return StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=0)
+
+
+DATA_DIR = Path("data/processed")
 
 def load_features():
     X_tfidf = sp.load_npz(DATA_DIR / "X_tfidf.npz")
@@ -59,9 +78,8 @@ def make_split_views(X, splits):
 
 
 def combine_dense_features(X_embed, X_numeric):
-    """
-    We keep this separate from TF-IDF because tree-based models and
-    MLPs work better and faster on a moderate-size dense representation.
+    """tree-based models and MLPs work better and faster
+     on a moderate-size dense representation.
     """
     return np.concatenate([X_embed, X_numeric], axis=1)
 
@@ -80,7 +98,7 @@ def run_classification_experiment(
     y_test,
 ):
     # to handles class imbalance
-    cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=0)
+    cv = make_stratified_cv(y_train, max_splits=5)
     # macro-F1 focuses on all classes, not just majority
     grid = GridSearchCV(
         estimator=model,
@@ -128,9 +146,9 @@ def run_classification_experiment(
 def run_all_classifiers(X_tfidf, X_embed, X_numeric, y_class, splits):
     """
     NB / LR / LinearSVC use TF-IDF:
-       - These linear models handle high-dim sparse data well.
+      - These linear models handle high-dim sparse data well.
     RF / GB / MLP use (embed + numeric):
-       - Trees and MLPs are better on dense, lower-dim features.
+      - Trees and MLPs are better on dense, lower-dim features.
     """
     results = []
 
@@ -153,16 +171,19 @@ def run_all_classifiers(X_tfidf, X_embed, X_numeric, y_class, splits):
     # alpha ∈ {0.1, 0.5, 1.0}
     nb = MultinomialNB()
     nb_grid = {"alpha": [0.1, 0.5, 1.0]}
+    Xtf_train_nb = make_non_negative(Xtf_train)
+    Xtf_val_nb = make_non_negative(Xtf_val)
+    Xtf_test_nb = make_non_negative(Xtf_test)
     results.append(
         run_classification_experiment(
             "NB_TFIDF",
             nb,
             nb_grid,
-            Xtf_train,
+            Xtf_train_nb,
             y_train,
-            Xtf_val,
+            Xtf_val_nb,
             y_val,
-            Xtf_test,
+            Xtf_test_nb,
             y_test,
         )
     )
@@ -317,7 +338,8 @@ def run_regression_experiment(
     def eval_split(X, y):
         y_pred = best.predict(X)
         mae = mean_absolute_error(y, y_pred)
-        rmse = mean_squared_error(y, y_pred, squared=False)
+        mse = mean_squared_error(y, y_pred)
+        rmse = np.sqrt(mse)
         return mae, rmse
 
     train_mae, train_rmse = eval_split(X_train, y_train)
@@ -367,7 +389,7 @@ def run_all_regressors(X_tfidf, X_embed, X_numeric, y_score, splits):
 
     # Model 1: Ridge Regression (TF-IDF)
     # alpha ∈ {0.01, 0.1, 1.0, 10.0}: L2 regularization strength.
-    ridge = Ridge(random_state=0)
+    ridge = Ridge()
     ridge_grid = {"alpha": [0.01, 0.1, 1.0, 10.0]}
     results.append(
         run_regression_experiment(
