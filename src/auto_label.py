@@ -1,5 +1,4 @@
 """
-auto_label.py
 Semi-automatic labeling pipeline with data quality tracking.
 """
 
