@@ -1,38 +1,38 @@
 domain,friendly_label,compat_score,scraping_perm,ai_training_perm,derivative_perm,notes,data_quality
 google.com,1,0.5,1,1,1,auto-labeled,tiny_tos
-facebook.com,0,0.267,0,1,1,robots_disallow_root,tiny_tos
+facebook.com,0,0.22,0,1,1,robots_disallow_root,tiny_tos
 youtube.com,1,0.5,1,1,1,auto-labeled,complete
-twitter.com,0,0.267,0,1,1,robots_disallow_root,tiny_tos
-instagram.com,0,0.267,0,1,1,robots_disallow_root,tiny_tos
-linkedin.com,0,0.267,0,1,1,robots_disallow_root,complete
-reddit.com,0,0.187,0,1,1,robots_disallow_root,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
+twitter.com,0,0.22,0,1,1,robots_disallow_root,tiny_tos
+instagram.com,0,0.22,0,1,1,robots_disallow_root,tiny_tos
+linkedin.com,0,0.22,0,1,1,robots_disallow_root,complete
+reddit.com,0,0.154,0,1,1,robots_disallow_root,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
 pinterest.com,1,0.5,1,1,1,robots_has_allow,tiny_tos
 tiktok.com,1,0.5,1,1,1,robots_has_allow,tiny_tos
-snapchat.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
-wikipedia.org,2,0.8,2,1,1,auto-labeled; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+snapchat.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+wikipedia.org,2,0.825,2,1,1,auto-labeled; manual_promote_friendly; manual_promote_friendly,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
 apple.com,1,0.5,1,1,1,robots_has_allow,complete
 microsoft.com,1,0.5,1,1,1,auto-labeled,tiny_tos
 amazon.com,1,0.35,1,1,1,robots_has_allow,"html_status_503,missing_tos_file,tos_http_missing,tos_status_not_found"
-netflix.com,0,0.267,0,1,1,robots_disallow_root,complete
+netflix.com,0,0.22,0,1,1,robots_disallow_root,complete
 spotify.com,1,0.5,1,1,1,auto-labeled,tiny_tos
 adobe.com,1,0.5,1,1,1,robots_has_allow,complete
 github.com,1,0.5,1,1,1,robots_has_allow,complete
-stackoverflow.com,0,0.267,0,1,1,robots_disallow_root,"missing_tos_file,robots_http_418,tos_http_missing,tos_status_not_found"
-stackexchange.com,0,0.267,0,1,1,robots_disallow_root,"missing_tos_file,robots_http_418,tos_http_missing,tos_status_not_found"
-quora.com,0,0.187,0,1,1,robots_disallow_root; robots_has_allow,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
-medium.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+stackoverflow.com,0,0.22,0,1,1,robots_disallow_root,"missing_tos_file,robots_http_418,tos_http_missing,tos_status_not_found"
+stackexchange.com,0,0.22,0,1,1,robots_disallow_root,"missing_tos_file,robots_http_418,tos_http_missing,tos_status_not_found"
+quora.com,0,0.154,0,1,1,robots_disallow_root; robots_has_allow,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
+medium.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
 tumblr.com,1,0.5,1,1,1,auto-labeled,complete
 wordpress.com,1,0.5,1,1,1,robots_has_allow,complete
 wix.com,1,0.5,1,1,1,auto-labeled,complete
-shopify.com,1,0.583,1,1,2,derivative_allowed_in_tos,complete
+shopify.com,2,0.825,2,1,2,derivative_allowed_in_tos; manual_promote_friendly; manual_promote_friendly,complete
 walmart.com,1,0.5,1,1,1,robots_has_allow,tiny_tos
 target.com,1,0.5,1,1,1,auto-labeled,complete
-bestbuy.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+bestbuy.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
 ebay.com,1,0.5,1,1,1,robots_has_allow,complete
-etsy.com,1,0.35,1,1,1,robots_has_allow,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
+etsy.com,0,0.31799999999999995,1,1,1,robots_has_allow; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
 alibaba.com,1,0.5,1,1,1,robots_has_allow,complete
 aliexpress.com,1,0.5,1,1,1,robots_has_allow,tiny_tos
-yahoo.com,1,0.35,1,1,1,auto-labeled,"html_status_429,missing_tos_file,tos_http_missing,tos_status_not_found"
+yahoo.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_429,missing_tos_file,tos_http_missing,tos_status_not_found"
 cnn.com,1,0.5,1,1,1,robots_has_allow,missing_tos_file
 bbc.com,1,0.5,1,1,1,auto-labeled,missing_tos_file
 nytimes.com,1,0.5,1,1,1,auto-labeled,complete
@@ -40,9 +40,9 @@ washingtonpost.com,1,0.5,1,1,1,robots_has_allow,"missing_tos_file,tos_http_missi
 theguardian.com,1,0.5,1,1,1,auto-labeled,complete
 forbes.com,1,0.5,1,1,1,robots_has_allow,complete
 bloomberg.com,1,0.35,1,1,1,robots_has_allow,html_status_403
-reuters.com,1,0.35,1,1,1,auto-labeled,"html_status_401,missing_tos_file,tos_http_missing,tos_status_not_found"
-espn.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
-foxnews.com,1,0.417,1,1,0,derivative_forbidden_in_tos,complete
+reuters.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_401,missing_tos_file,tos_http_missing,tos_status_not_found"
+espn.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+foxnews.com,1,0.425,1,1,0,derivative_forbidden_in_tos,complete
 npr.org,1,0.5,1,1,1,auto-labeled,complete
 huffpost.com,1,0.5,1,1,1,auto-labeled,complete
 harvard.edu,1,0.5,1,1,1,auto-labeled,tiny_tos
@@ -50,12 +50,12 @@ stanford.edu,1,0.5,1,1,1,auto-labeled,complete
 mit.edu,1,0.5,1,1,1,auto-labeled,"missing_tos_file,tos_http_missing,tos_status_not_found"
 princeton.edu,1,0.5,1,1,1,auto-labeled,"missing_robots_file,missing_tos_file,robots_http_missing,robots_status_error,tos_http_missing,tos_status_not_found"
 ox.ac.uk,1,0.5,1,1,1,auto-labeled,complete
-cam.ac.uk,1,0.417,1,1,0,robots_has_allow; derivative_forbidden_in_tos,complete
-nih.gov,2,0.8,2,1,1,robots_has_allow; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,complete
-usa.gov,2,0.8,2,1,1,robots_has_allow; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,complete
+cam.ac.uk,1,0.425,1,1,0,robots_has_allow; derivative_forbidden_in_tos,complete
+nih.gov,2,0.825,2,1,1,robots_has_allow; manual_promote_friendly; manual_promote_friendly,complete
+usa.gov,2,0.825,2,1,1,robots_has_allow; manual_promote_friendly; manual_promote_friendly,complete
 irs.gov,1,0.5,1,1,1,robots_has_allow,"missing_tos_file,tos_http_missing,tos_status_not_found"
 cia.gov,1,0.5,1,1,1,auto-labeled,"missing_tos_file,tos_http_missing,tos_status_not_found"
-nasa.gov,2,0.8,2,1,1,robots_has_allow; manual_promote_friendly_due_to_open_robots_and_public_data; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,"missing_tos_file,tos_http_missing,tos_status_not_found"
+nasa.gov,2,0.825,2,1,1,robots_has_allow; manual_promote_friendly; manual_promote_friendly,"missing_tos_file,tos_http_missing,tos_status_not_found"
 europarl.europa.eu,1,0.5,1,1,1,auto-labeled,"missing_tos_file,tos_http_missing,tos_status_not_found"
 cisco.com,1,0.5,1,1,1,auto-labeled,complete
 oracle.com,1,0.35,1,1,1,robots_has_allow,html_status_403
@@ -70,33 +70,33 @@ asana.com,1,0.5,1,1,1,robots_has_allow,complete
 notion.so,1,0.5,1,1,1,robots_has_allow,tiny_tos
 airbnb.com,1,0.5,1,1,1,auto-labeled,"missing_robots_file,robots_http_missing,robots_status_error"
 booking.com,1,0.5,1,1,1,robots_has_allow,complete
-uber.com,1,0.35,1,1,1,robots_has_allow,"html_status_406,missing_tos_file,tos_http_missing,tos_status_not_found"
+uber.com,0,0.31799999999999995,1,1,1,robots_has_allow; manual_demote_hostile; manual_demote_hostile,"html_status_406,missing_tos_file,tos_http_missing,tos_status_not_found"
 lyft.com,1,0.5,1,1,1,auto-labeled,complete
 expedia.com,1,0.35,1,1,1,auto-labeled,html_status_429
-tripadvisor.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
+tripadvisor.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
 skyscanner.net,1,0.5,1,1,1,auto-labeled,tiny_tos
-trivago.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
-yelp.com,0,0.267,0,1,1,robots_disallow_root,"missing_tos_file,tos_http_missing,tos_status_not_found"
+trivago.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+yelp.com,0,0.22,0,1,1,robots_disallow_root,"missing_tos_file,tos_http_missing,tos_status_not_found"
 foursquare.com,1,0.5,1,1,1,robots_has_allow,complete
 craigslist.org,1,0.5,1,1,1,auto-labeled,complete
-indeed.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+indeed.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
 monster.com,1,0.5,1,1,1,robots_has_allow,"missing_tos_file,tos_http_missing,tos_status_not_found"
-glassdoor.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
-careerbuilder.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+glassdoor.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+careerbuilder.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
 ziprecruiter.com,1,0.5,1,1,1,robots_has_allow,missing_tos_file
 paypal.com,1,0.5,1,1,1,auto-labeled,tiny_tos
 stripe.com,1,0.5,1,1,1,robots_has_allow,tiny_tos
-venmo.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
-squareup.com,1,0.583,1,1,2,robots_has_allow; derivative_allowed_in_tos,complete
+venmo.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+squareup.com,2,0.825,2,1,2,robots_has_allow; derivative_allowed_in_tos; manual_promote_friendly; manual_promote_friendly,complete
 robinhood.com,1,0.5,1,1,1,robots_has_allow,missing_tos_file
-coinbase.com,1,0.35,1,1,1,robots_has_allow,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
+coinbase.com,0,0.31799999999999995,1,1,1,robots_has_allow; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
 binance.com,1,0.5,1,1,1,robots_has_allow,"missing_tos_file,tos_http_missing,tos_status_not_found"
-kraken.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
+kraken.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
 imdb.com,1,0.35,1,1,1,auto-labeled,html_status_403
 rotten-tomatoes.com,1,0.5,1,1,1,auto-labeled,"missing_robots_file,missing_tos_file,robots_http_missing,robots_status_error,tos_http_missing,tos_status_not_found"
-metacritic.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
-soundcloud.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
-bandcamp.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+metacritic.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+soundcloud.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+bandcamp.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
 vimeo.com,1,0.5,1,1,1,robots_has_allow,complete
 dailymotion.com,1,0.5,1,1,1,auto-labeled,tiny_tos
 twitch.tv,1,0.5,1,1,1,robots_has_allow,tiny_tos
@@ -105,31 +105,31 @@ telegram.org,1,0.5,1,1,1,auto-labeled,robots_http_404
 signal.org,1,0.5,1,1,1,auto-labeled,robots_http_404
 whatsapp.com,1,0.5,1,1,1,auto-labeled,complete
 wechat.com,1,0.5,1,1,1,auto-labeled,"missing_robots_file,robots_http_404"
-qq.com,1,0.35,1,1,1,auto-labeled,"html_status_501,missing_tos_file,robots_http_501,tos_http_missing,tos_status_not_found"
-sina.com.cn,1,0.583,2,1,1,robots_has_allow,"missing_tos_file,tos_http_missing,tos_status_not_found"
+qq.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_501,missing_tos_file,robots_http_501,tos_http_missing,tos_status_not_found"
+sina.com.cn,2,0.825,2,1,1,robots_has_allow; manual_promote_friendly; manual_promote_friendly,"missing_tos_file,tos_http_missing,tos_status_not_found"
 taobao.com,1,0.5,1,1,1,robots_has_allow,tiny_tos
 jd.com,1,0.5,1,1,1,auto-labeled,complete
 yandex.ru,1,0.5,1,1,1,robots_has_allow,complete
-mail.ru,0,0.267,0,1,1,robots_disallow_root; robots_has_allow,missing_tos_file
+mail.ru,0,0.22,0,1,1,robots_disallow_root; robots_has_allow,missing_tos_file
 alipay.com,1,0.5,1,1,1,auto-labeled,"missing_tos_file,robots_http_404,tos_http_missing,tos_status_not_found"
-baidu.com,0,0.267,0,1,1,robots_disallow_root,"missing_tos_file,tos_http_missing,tos_status_not_found"
-zillow.com,1,0.35,1,1,1,robots_has_allow,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
+baidu.com,0,0.22,0,1,1,robots_disallow_root,"missing_tos_file,tos_http_missing,tos_status_not_found"
+zillow.com,0,0.31799999999999995,1,1,1,robots_has_allow; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
 trulia.com,1,0.5,1,1,1,robots_has_allow,"missing_tos_file,tos_http_missing,tos_status_not_found"
 realtor.com,1,0.35,1,1,1,auto-labeled,html_status_429
-redfin.com,1,0.35,1,1,1,auto-labeled,"html_status_429,missing_tos_file,robots_http_429,tos_http_missing,tos_status_not_found"
+redfin.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_429,missing_tos_file,robots_http_429,tos_http_missing,tos_status_not_found"
 carfax.com,1,0.5,1,1,1,auto-labeled,"missing_tos_file,tos_http_missing,tos_status_not_found"
 cars.com,1,0.5,1,1,1,auto-labeled,"missing_robots_file,missing_tos_file,robots_http_missing,robots_status_error,tos_http_missing,tos_status_not_found"
-autotrader.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+autotrader.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
 edx.org,1,0.5,1,1,1,robots_has_allow,complete
 coursera.org,1,0.5,1,1,1,robots_has_allow,complete
 khanacademy.org,1,0.5,1,1,1,auto-labeled,tiny_tos
 udemy.com,1,0.5,1,1,1,robots_has_allow,complete
-skillshare.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+skillshare.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
 codecademy.com,1,0.5,1,1,1,auto-labeled,complete
-udacity.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+udacity.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
 lynda.com,1,0.5,1,1,1,auto-labeled,"missing_tos_file,robots_http_404,tos_http_missing,tos_status_not_found"
 msn.com,1,0.5,1,1,1,robots_has_allow,"missing_tos_file,tos_http_missing,tos_status_not_found"
-aol.com,1,0.35,1,1,1,robots_has_allow,"html_status_429,missing_tos_file,tos_http_missing,tos_status_not_found"
+aol.com,0,0.31799999999999995,1,1,1,robots_has_allow; manual_demote_hostile; manual_demote_hostile,"html_status_429,missing_tos_file,tos_http_missing,tos_status_not_found"
 hulu.com,1,0.5,1,1,1,robots_has_allow,complete
 disneyplus.com,1,0.5,1,1,1,auto-labeled,complete
 hbo.com,1,0.5,1,1,1,auto-labeled,complete
@@ -138,14 +138,14 @@ aljazeera.com,1,0.5,1,1,1,robots_has_allow,complete
 sakura.ne.jp,1,0.5,1,1,1,auto-labeled,"missing_robots_file,missing_tos_file,robots_http_missing,robots_status_error,tos_http_missing,tos_status_not_found"
 cloudflare.com,1,0.5,1,1,1,auto-labeled,complete
 verisign.com,1,0.5,1,1,1,auto-labeled,complete
-huggingface.co,2,0.8,2,1,1,robots_has_allow; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,tiny_tos
+huggingface.co,2,0.825,2,1,1,robots_has_allow; manual_promote_friendly; manual_promote_friendly,tiny_tos
 kaggle.com,1,0.5,1,1,1,auto-labeled,"robots_http_404,tiny_tos"
-openai.com,1,0.35,1,1,1,robots_has_allow,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
-anthropic.com,2,0.8,2,1,1,robots_has_allow; manual_promote_friendly_due_to_open_robots_and_public_or_research_mission,complete
+openai.com,0,0.31799999999999995,1,1,1,robots_has_allow; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_tos_file,tos_http_missing,tos_status_not_found"
+anthropic.com,2,0.825,2,1,1,robots_has_allow; manual_promote_friendly; manual_promote_friendly,complete
 stability.ai,1,0.5,1,1,1,robots_has_allow,complete
 mozilla.org,1,0.5,1,1,1,auto-labeled,complete
 apache.org,1,0.5,1,1,1,auto-labeled,complete
 openweather.co,1,0.35,1,1,1,auto-labeled,"html_status_436,missing_robots_file,missing_tos_file,robots_http_436,tos_http_missing,tos_status_not_found"
-unsplash.com,1,0.35,1,1,1,auto-labeled,"html_status_403,missing_robots_file,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
+unsplash.com,0,0.31799999999999995,1,1,1,auto-labeled; manual_demote_hostile; manual_demote_hostile,"html_status_403,missing_robots_file,missing_tos_file,robots_http_403,tos_http_missing,tos_status_not_found"
 mastodon.social,1,0.5,1,1,1,auto-labeled,tiny_tos
 substack.com,1,0.5,1,1,1,auto-labeled,"missing_tos_file,tos_http_missing,tos_status_not_found"

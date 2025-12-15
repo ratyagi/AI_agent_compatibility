@@ -234,10 +234,25 @@ def derive_derivative_perm(tos_signals: Dict[str, Any]) -> int:
     return 1
 
 
-def compute_compat_score(friendly_label: int,scraping_perm: int,ai_training_perm: int,derivative_perm: int,html_info: Optional[Dict[str, Any]] = None) -> float:
-    """Combine labels into a compat_score ∈ [0, 1]."""
+def compute_compat_score(
+    friendly_label: int,
+    scraping_perm: int,
+    ai_training_perm: int,
+    derivative_perm: int,
+    html_info: Optional[Dict[str, Any]] = None,
+) -> float:
+    """
+    Combine labels into a compat_score ∈ [0, 1].
+
+    Weighted instead of a simple average:
+    - friendly_label (ACCESS) has the highest weight.
+    - scraping_perm is important.
+    - derivative_perm has moderate weight.
+    - ai_training_perm has the smallest weight.
+    """
+    # Map class label to a base access score
     base_map = {0: 0.2, 1: 0.5, 2: 0.8}
-    base_friendly = base_map.get(friendly_label, 0.5)
+    access_score = base_map.get(friendly_label, 0.5)
 
     def perm_to_unit(p: int) -> float:
         if p <= 0:
@@ -246,13 +261,11 @@ def compute_compat_score(friendly_label: int,scraping_perm: int,ai_training_perm
             return 0.5
         return 1.0
 
-    perms_unit = [
-        perm_to_unit(scraping_perm),
-        perm_to_unit(ai_training_perm),
-        perm_to_unit(derivative_perm),
-    ]
-    perms_score = sum(perms_unit) / len(perms_unit)
+    scrape_score = perm_to_unit(scraping_perm)
+    ai_score = perm_to_unit(ai_training_perm)
+    deriv_score = perm_to_unit(derivative_perm)
 
+    # Technical factor from HTTP status (kept as-is)
     technical_factor = 1.0
     if html_info:
         status = html_info.get("status_code")
@@ -264,11 +277,19 @@ def compute_compat_score(friendly_label: int,scraping_perm: int,ai_training_perm
         except (ValueError, TypeError):
             pass
 
-    combined = (base_friendly + perms_score) / 2.0
-    combined *= technical_factor
+    # Weighted combination:
+    # ACCESS dominates, then scraping, then derivative, then AI training.
+    compat_raw = (
+        0.6 * access_score +
+        0.2 * scrape_score +
+        0.15 * deriv_score +
+        0.05 * ai_score
+    )
 
-    combined = max(0.0, min(1.0, combined))
-    return float(round(combined, 3))
+    compat_raw *= technical_factor
+
+    compat_raw = max(0.0, min(1.0, compat_raw))
+    return float(round(compat_raw, 3))
 
 
 def auto_label_domain(
